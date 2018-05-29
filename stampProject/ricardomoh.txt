@@ -1,0 +1,1000 @@
+614|Numeric|Afghanistan|2016|Postage currency|0.1|CAD|42|84|Very Rare|21|Acacia gum|
+528|Emblem|Afghanistan|2010|Carrier's|0.1|INR|20|100|Rare|10|Other|
+819|Emblem|Afghanistan|2004|Variable value|0.1|CAD|24|42|Rare|59|Glue|
+591|Emblem|Afghanistan|1995|Military|0.1||17|107|Common|11|Other|
+887|Portrait|Afghanistan|1986|Postage currency|0.1|SEK|55|41|Rare|50|Other|
+552|Numeric|Afghanistan|1982|Newspaper|0.1||43|43|Rare|30|Glue|
+625|Pictorial|Afghanistan|1975|Definitive|0.1|NZD|15|58|Common|89|Self-adhesive|
+166|Pictorial|Afghanistan|1969|Newspaper|0.1|CAD|30|45|Very Rare|63|Other|
+463|Emblem|Afghanistan|1908|Pneumatic post|0.1|ARS|40|106|Common|7|Self-adhesive|
+576|Numeric|Afghanistan|1904|Variable value|0.1|INR|56|37|Uncommon|12|Other|
+185|Numeric|Afghanistan|1882|Make up|0.1|JPY|11|36|Very Rare|55|Dextrin|
+303|Emblem|Afghanistan|1856|Postage due|0.1|CAD|52|86|Rare|88|Polyvinyl alcohol|
+242|Pictorial|Afghanistan|1855|Souvenir sheet|0.1||55|108|Rare|46|Acacia gum|
+617|Portrait|Afghanistan|1852|Postage currency|0.1|BHD|46|87|Uncommon|64|Glue|
+700|Numeric|Argentina|2007|Official mail|0.1||59|33|Uncommon|2|Polyvinyl alcohol|
+505|Emblem|Argentina|1997|Charity|0.1|CNH|22|67|Very Rare|10|Other|
+676|Numeric|Argentina|1989|Express|0.1|EUR|10|82|Very Rare|66|Other|
+377|Emblem|Argentina|1964|Personalised|0.1|AED|17|26|Very Rare|29|Dextrin|
+293|Emblem|Argentina|1956|Test stamp|0.1|RUB|59|100|Uncommon|49|Dextrin|
+716|Emblem|Argentina|1955|Postage currency|0.1|AFN|15|10|Rare|29|Glue|
+53|Emblem|Argentina|1918|Express|0.1||37|108|Common|73|Other|
+213|Portrait|Argentina|1911|Booklet|0.1|SEK|19|73|Common|14|Glue|
+313|Emblem|Argentina|1905|Postage due|0.1|BRL|10|75|Uncommon|18|Self-adhesive|
+480|Numeric|Argentina|1900|Definitive|0.1|CAD|29|32|Common|61|Polyvinyl alcohol|
+725|Portrait|Argentina|1898|Charity|0.1|BRL|54|20|Common|17|Glue|
+52|Pictorial|Argentina|1878|Pneumatic post|0.1|JPY|31|90|Very Rare|69|Acacia gum|
+762|Emblem|Argentina|1877|Variable value|0.1||55|30|Common|57|Acacia gum|
+3|Numeric|Argentina|1865|Non-denominated|0.1||35|59|Uncommon|14|Glue|
+987|Emblem|Argentina|1855|Overprint|0.1|BHD|44|109|Very Rare|17|Self-adhesive|
+936|Pictorial|Argentina|1846|Newspaper|0.1|NZD|32|16|Rare|80|Dextrin|
+477|Emblem|Argentina|1843|Overprint|0.1|AED|27|89|Common|73|Dextrin|
+742|Emblem|Argentina|1840|Specimen|0.1|BRL|33|88|Uncommon|83|Polyvinyl alcohol|
+549|Numeric|Bahamas|2008|Carrier's|0.1|INR|49|21|Rare|8|Self-adhesive|
+434|Numeric|Bahamas|1976|Specimen|0.1|EUR|17|23|Rare|67|Acacia gum|
+220|Numeric|Bahamas|1973|Postage currency|0.1|AUD|28|35|Very Rare|87|Self-adhesive|
+426|Emblem|Bahamas|1971|Specimen|0.1||16|56|Rare|41|Dextrin|
+798|Portrait|Bahamas|1963|Personalised|0.1|AED|39|29|Rare|27|Self-adhesive|
+686|Emblem|Bahamas|1936|Military|0.1||44|84|Common|92|Dextrin|
+976|Numeric|Bahamas|1911|Coil|0.1||13|64|Rare|71|Dextrin|
+321|Numeric|Bahamas|1872|Commemorative|0.1|CNH|59|30|Rare|49|Polyvinyl alcohol|
+465|Emblem|Bahrain|2008|Test stamp|0.1|CNH|42|22|Common|53|Self-adhesive|
+219|Numeric|Bahrain|2000|Non-denominated|0.1|ARS|27|69|Common|47|Acacia gum|
+197|Portrait|Bahrain|1994|Variable value|0.1|JPY|40|59|Rare|29|Polyvinyl alcohol|
+372|Pictorial|Bahrain|1989|Definitive|0.1|GBP|56|60|Very Rare|45|Polyvinyl alcohol|
+517|Pictorial|Bahrain|1974|Postage due|0.1|AED|35|37|Rare|68|Other|
+448|Pictorial|Bahrain|1962|Military|0.1|AUD|26|52|Very Rare|8|Other|
+869|Emblem|Bahrain|1956|Test stamp|0.1|INR|48|93|Common|74|Dextrin|
+239|Pictorial|Bahrain|1954|Postage due|0.1|KRW|44|39|Common|36|Other|
+184|Pictorial|Bahrain|1952|Postage due|0.1|AFN|45|44|Rare|28|Glue|
+660|Emblem|Bahrain|1938|Make up|0.1|GBP|25|53|Very Rare|33|Dextrin|
+997|Portrait|Bahrain|1917|Newspaper|0.1|GBP|59|45|Uncommon|23|Polyvinyl alcohol|
+161|Portrait|Bahrain|1903|Express|0.1|INR|39|52|Very Rare|12|Dextrin|
+524|Numeric|Bahrain|1900|Commemorative|0.1|NZD|15|102|Very Rare|11|Other|
+345|Numeric|Bahrain|1895|Definitive|0.1|ARS|50|94|Rare|53|Dextrin|
+4|Pictorial|Bahrain|1882|Carrier's|0.1|AUD|30|54|Rare|72|Acacia gum|
+932|Portrait|Bahrain|1878|Express|0.1||17|92|Rare|56|Self-adhesive|
+821|Portrait|Bahrain|1859|Computer vended|0.1|JPY|42|43|Common|93|Other|
+317|Portrait|Bahrain|1851|Airmail|0.1|AUD|54|37|Very Rare|54|Self-adhesive|
+83|Emblem|Bermuda|2012|Personalised|0.1|AFN|40|77|Very Rare|61|Other|
+765|Pictorial|Bermuda|2004|Personalised|0.1|EUR|28|19|Rare|17|Polyvinyl alcohol|
+586|Numeric|Bermuda|1935|Military|0.1||55|90|Uncommon|9|Glue|
+771|Emblem|Bermuda|1926|Booklet|0.1|BRL|22|75|Rare|56|Self-adhesive|
+642|Numeric|Bermuda|1863|Overprint|0.1||36|32|Uncommon|38|Polyvinyl alcohol|
+535|Pictorial|Bermuda|1862|Booklet|0.1||55|11|Very Rare|45|Dextrin|
+634|Pictorial|Bermuda|1859|Variable value|0.1|AFN|16|61|Very Rare|2|Dextrin|
+746|Emblem|Bermuda|1852|Express|0.1|KRW|13|95|Uncommon|47|Acacia gum|
+912|Pictorial|Bermuda|1842|Airmail|0.1||43|93|Uncommon|58|Other|
+616|Emblem|Brazil|2007|War tax|0.1|SEK|16|31|Uncommon|69|Glue|
+101|Numeric|Brazil|2002|Carrier's|0.1||56|105|Rare|70|Other|
+177|Numeric|Brazil|2000|Make up|0.1|AUD|47|62|Rare|69|Polyvinyl alcohol|
+12|Numeric|Brazil|1930|Postage currency|0.1|AUD|46|38|Uncommon|17|Dextrin|
+362|Pictorial|Brazil|1903|Definitive|0.1||44|24|Very Rare|25|Other|
+188|Portrait|Brazil|1885|Express|0.1|AED|52|95|Uncommon|34|Dextrin|
+456|Pictorial|Brazil|1867|Postage currency|0.1|CNH|25|77|Common|17|Self-adhesive|
+383|Portrait|Brazil|1867|Specimen|0.1|AUD|55|40|Uncommon|14|Other|
+883|Numeric|Brazil|1849|Computer vended|0.1|GBP|10|41|Uncommon|42|Polyvinyl alcohol|
+740|Emblem|Bulgaria|1991|Perforated|0.1|RUB|45|89|Common|80|Dextrin|
+714|Emblem|Bulgaria|1948|Commemorative|0.1|USD|44|50|Uncommon|58|Polyvinyl alcohol|
+691|Pictorial|Bulgaria|1934|Specimen|0.1|KRW|56|64|Uncommon|95|Glue|
+55|Numeric|Bulgaria|1932|Certified mail|0.1|BRL|45|16|Uncommon|80|Self-adhesive|
+13|Pictorial|Bulgaria|1924|War tax|0.1|INR|34|36|Very Rare|53|Acacia gum|
+453|Pictorial|Bulgaria|1906|Non-denominated|0.1||32|58|Uncommon|46|Glue|
+396|Portrait|Bulgaria|1889|Definitive|0.1|AUD|38|94|Uncommon|31|Self-adhesive|
+192|Pictorial|Bulgaria|1878|Official mail|0.1|RUB|52|47|Common|40|Dextrin|
+963|Emblem|Bulgaria|1872|Perforated|0.1|KRW|53|27|Rare|81|Polyvinyl alcohol|
+118|Numeric|Bulgaria|1845|Commemorative|0.1|BHD|46|97|Uncommon|1|Acacia gum|
+102|Emblem|Bulgaria|1844|Newspaper|0.1|AUD|31|109|Very Rare|2|Other|
+45|Portrait|Burma|1977|Pneumatic post|0.1|RUB|55|83|Uncommon|47|Glue|
+400|Numeric|Burma|1968|Airmail|0.1|AUD|42|29|Rare|16|Other|
+478|Pictorial|Burma|1960|Carrier's|0.1||53|27|Rare|76|Self-adhesive|
+472|Portrait|Burma|1946|Airmail|0.1|ARS|29|62|Common|63|Polyvinyl alcohol|
+140|Portrait|Burma|1941|Variable value|0.1|INR|25|90|Rare|30|Dextrin|
+921|Pictorial|Burma|1939|Booklet|0.1||24|101|Rare|44|Glue|
+172|Portrait|Burma|1929|Airmail|0.1|NZD|56|75|Common|71|Self-adhesive|
+474|Emblem|Burma|1909|Non-denominated|0.1|CAD|31|21|Uncommon|35|Polyvinyl alcohol|
+928|Numeric|Burma|1889|Official mail|0.1|CAD|49|29|Rare|56|Other|
+431|Pictorial|Burma|1858|Newspaper|0.1|GBP|16|62|Very Rare|71|Acacia gum|
+799|Emblem|Burma|1840|Charity|0.1|KRW|20|15|Uncommon|19|Dextrin|
+150|Portrait|Canada|2004|Make up|0.1|ARS|59|58|Rare|55|Acacia gum|
+948|Pictorial|Canada|1999|Military|0.1||28|29|Uncommon|33|Dextrin|
+304|Portrait|Canada|1999|Postage due|0.1|CNH|25|105|Very Rare|16|Self-adhesive|
+674|Pictorial|Canada|1990|Newspaper|0.1|GBP|13|50|Common|39|Polyvinyl alcohol|
+417|Pictorial|Canada|1962|Coil|0.1|BHD|29|56|Very Rare|73|Glue|
+427|Portrait|Canada|1934|Charity|0.1|ARS|46|109|Rare|73|Dextrin|
+531|Emblem|Canada|1903|Personalised|0.1|KRW|35|99|Very Rare|37|Polyvinyl alcohol|
+159|Emblem|Canada|1881|Pneumatic post|0.1|CAD|38|77|Common|73|Polyvinyl alcohol|
+975|Portrait|Canada|1878|Newspaper|0.1||10|86|Common|42|Self-adhesive|
+630|Numeric|Canada|1876|Certified mail|0.1|AFN|15|86|Rare|6|Self-adhesive|
+256|Pictorial|Canada|1861|Booklet|0.1|ARS|10|85|Rare|70|Polyvinyl alcohol|
+831|Portrait|Canada|1860|Overprint|0.1|AED|16|70|Uncommon|27|Polyvinyl alcohol|
+393|Pictorial|Chile|2011|Souvenir sheet|0.1|NZD|39|72|Uncommon|69|Polyvinyl alcohol|
+655|Portrait|Chile|2008|Commemorative|0.1|BHD|27|55|Rare|12|Dextrin|
+314|Portrait|Chile|1945|Personalised|0.1|GBP|44|33|Common|50|Glue|
+116|Portrait|Chile|1881|Pneumatic post|0.1||56|97|Uncommon|49|Other|
+274|Emblem|Chile|1860|Souvenir sheet|0.1|INR|32|36|Uncommon|47|Dextrin|
+935|Numeric|Chile|1858|Pneumatic post|0.1|INR|56|30|Rare|41|Dextrin|
+636|Numeric|Chile|1854|Variable value|0.1|EUR|33|76|Very Rare|60|Dextrin|
+43|Emblem|Chile|1840|Local post|0.1|BRL|30|76|Uncommon|48|Acacia gum|
+937|Pictorial|China|2015|Non-denominated|0.1|AED|58|63|Rare|55|Other|
+739|Emblem|China|2015|Airmail|0.1|AFN|18|90|Very Rare|89|Glue|
+201|Numeric|China|2004|Make up|0.1|AED|35|50|Rare|65|Other|
+834|Portrait|China|1982|Specimen|0.1|AED|27|35|Very Rare|41|Glue|
+710|Pictorial|China|1942|Perforated|0.1|INR|19|91|Rare|78|Other|
+322|Numeric|China|1942|Newspaper|0.1||13|41|Uncommon|11|Self-adhesive|
+845|Numeric|China|1934|Carrier's|0.1|RUB|30|66|Common|44|Other|
+375|Portrait|China|1904|Computer vended|0.1|SEK|40|84|Common|98|Glue|
+589|Numeric|Colombia|2013|Official mail|0.1|AFN|48|47|Common|39|Other|
+42|Emblem|Colombia|2009|Specimen|0.1|SEK|21|108|Rare|78|Self-adhesive|
+132|Emblem|Colombia|1979|Pneumatic post|0.1|AED|19|27|Uncommon|41|Glue|
+797|Pictorial|Colombia|1940|Newspaper|0.1|BHD|12|70|Rare|36|Self-adhesive|
+511|Emblem|Colombia|1933|Official mail|0.1|AFN|37|11|Rare|3|Acacia gum|
+387|Pictorial|Colombia|1933|Coil|0.1|BSD|19|25|Common|73|Polyvinyl alcohol|
+199|Portrait|Colombia|1892|Charity|0.1|BSD|46|26|Very Rare|49|Other|
+65|Emblem|Colombia|1891|Coil|0.1|GBP|20|68|Common|75|Other|
+876|Pictorial|Colombia|1886|Test stamp|0.1|CNH|58|98|Very Rare|22|Polyvinyl alcohol|
+279|Pictorial|Colombia|1867|Charity|0.1|GBP|34|53|Rare|66|Polyvinyl alcohol|
+877|Numeric|Colombia|1865|Non-denominated|0.1|BSD|23|84|Rare|69|Other|
+235|Numeric|Congo|2006|Commemorative|0.1|BSD|28|90|Common|76|Other|
+30|Pictorial|Congo|1997|Charity|0.1|BRL|30|100|Very Rare|6|Polyvinyl alcohol|
+356|Numeric|Congo|1951|Charity|0.1|BRL|40|95|Uncommon|54|Acacia gum|
+708|Pictorial|Congo|1921|Newspaper|0.1|AED|16|17|Common|59|Other|
+181|Numeric|Congo|1916|Specimen|0.1||47|98|Common|81|Glue|
+325|Emblem|Congo|1878|Certified mail|0.1|JPY|33|18|Very Rare|42|Polyvinyl alcohol|
+942|Pictorial|Congo|1867|Coil|0.1|SEK|28|88|Uncommon|76|Acacia gum|
+224|Emblem|Congo|1842|Postage due|0.1|GBP|28|101|Common|15|Glue|
+795|Pictorial|Costa Rica|1980|Definitive|0.1|BHD|25|27|Rare|28|Polyvinyl alcohol|
+446|Pictorial|Costa Rica|1941|Local post|0.1|BRL|29|30|Very Rare|78|Self-adhesive|
+58|Numeric|Costa Rica|1910|Variable value|0.1|EUR|18|70|Rare|89|Dextrin|
+715|Pictorial|Costa Rica|1890|Postage currency|0.1|AED|10|39|Common|24|Other|
+646|Portrait|Costa Rica|1885|Definitive|0.1|CAD|21|95|Uncommon|93|Dextrin|
+836|Pictorial|Costa Rica|1877|Postage due|0.1|CAD|23|24|Uncommon|53|Acacia gum|
+960|Numeric|Costa Rica|1873|Souvenir sheet|0.1|AFN|51|31|Uncommon|84|Acacia gum|
+705|Pictorial|Costa Rica|1854|Newspaper|0.1|USD|14|99|Common|25|Glue|
+165|Emblem|Costa Rica|1846|Pneumatic post|0.1|KRW|41|70|Rare|6|Acacia gum|
+164|Numeric|Cuba|2013|Military|0.1||30|99|Common|41|Acacia gum|
+760|Numeric|Cuba|2011|Definitive|0.1|GBP|59|18|Uncommon|25|Other|
+644|Emblem|Cuba|1967|Postage currency|0.1|CNH|57|42|Common|97|Glue|
+315|Emblem|Cuba|1951|Variable value|0.1||13|65|Very Rare|18|Dextrin|
+896|Pictorial|Cuba|1941|Express|0.1||59|70|Rare|40|Polyvinyl alcohol|
+125|Emblem|Cuba|1909|Definitive|0.1|JPY|31|51|Uncommon|16|Other|
+35|Numeric|Cuba|1893|Pneumatic post|0.1|EUR|41|74|Very Rare|29|Polyvinyl alcohol|
+152|Numeric|Cuba|1881|Express|0.1|CAD|45|75|Very Rare|68|Acacia gum|
+608|Pictorial|Cuba|1847|Specimen|0.1|SEK|48|94|Uncommon|82|Polyvinyl alcohol|
+884|Emblem|Cuba|1841|Variable value|0.1|BHD|14|104|Common|95|Acacia gum|
+261|Portrait|Cyprus|2010|Postage due|0.1|BSD|51|34|Very Rare|95|Other|
+407|Pictorial|Cyprus|1977|Make up|0.1|CAD|51|24|Common|22|Polyvinyl alcohol|
+398|Portrait|Cyprus|1955|Express|0.1|EUR|57|60|Rare|28|Dextrin|
+145|Portrait|Cyprus|1946|Postage currency|0.1||32|73|Uncommon|54|Dextrin|
+141|Emblem|Cyprus|1944|Coil|0.1|RUB|18|109|Very Rare|61|Self-adhesive|
+934|Numeric|Cyprus|1928|Pneumatic post|0.1|INR|51|55|Rare|45|Self-adhesive|
+558|Emblem|Cyprus|1902|Postage currency|0.1|AED|58|32|Uncommon|52|Dextrin|
+432|Pictorial|Cyprus|1867|Booklet|0.1|GBP|34|101|Very Rare|32|Polyvinyl alcohol|
+371|Numeric|Czech Republic|2010|Carrier's|0.1|CNH|15|100|Common|55|Acacia gum|
+231|Pictorial|Czech Republic|1973|Make up|0.1|USD|59|77|Rare|74|Polyvinyl alcohol|
+229|Emblem|Czech Republic|1964|Perforated|0.1|AED|36|109|Rare|15|Self-adhesive|
+262|Emblem|Czech Republic|1961|Overprint|0.1|AED|58|17|Very Rare|41|Acacia gum|
+529|Emblem|Czech Republic|1956|Specimen|0.1|BSD|21|73|Uncommon|54|Other|
+768|Numeric|Czech Republic|1902|Variable value|0.1|AED|27|43|Very Rare|90|Glue|
+473|Emblem|Czech Republic|1901|Overprint|0.1|EUR|38|82|Very Rare|16|Glue|
+688|Numeric|Czech Republic|1889|War tax|0.1|AFN|29|66|Rare|35|Polyvinyl alcohol|
+656|Pictorial|Czech Republic|1872|Variable value|0.1|RUB|23|47|Very Rare|41|Polyvinyl alcohol|
+610|Emblem|Czech Republic|1866|Local post|0.1|AFN|24|93|Uncommon|37|Acacia gum|
+72|Pictorial|Czech Republic|1866|Official mail|0.1|CAD|56|81|Common|76|Acacia gum|
+306|Pictorial|Denmark|2016|Express|0.1|BHD|40|33|Rare|75|Other|
+131|Numeric|Denmark|2016|War tax|0.1|JPY|52|36|Rare|16|Polyvinyl alcohol|
+411|Emblem|Denmark|1982|Charity|0.1|EUR|50|39|Common|5|Other|
+167|Pictorial|Denmark|1981|Local post|0.1|AFN|10|32|Uncommon|87|Self-adhesive|
+866|Numeric|Denmark|1933|Coil|0.1|BSD|54|62|Rare|60|Acacia gum|
+810|Portrait|Denmark|1924|Computer vended|0.1||29|13|Uncommon|57|Acacia gum|
+628|Numeric|Denmark|1917|Charity|0.1|RUB|48|62|Rare|16|Other|
+918|Pictorial|Denmark|1884|Souvenir sheet|0.1|KRW|34|70|Uncommon|22|Glue|
+522|Emblem|Denmark|1884|Postage due|0.1|CAD|42|43|Very Rare|82|Glue|
+346|Emblem|Denmark|1845|Official mail|0.1|USD|21|84|Very Rare|41|Polyvinyl alcohol|
+825|Emblem|Denmark|1842|Booklet|0.1|BRL|44|90|Rare|14|Dextrin|
+706|Portrait|Dominican Republic|2004|Local post|0.1|USD|37|14|Uncommon|97|Other|
+416|Pictorial|Dominican Republic|1989|Charity|0.1|BRL|36|91|Uncommon|52|Acacia gum|
+112|Pictorial|Dominican Republic|1954|Airmail|0.1||11|67|Very Rare|32|Self-adhesive|
+852|Portrait|Dominican Republic|1901|Postage currency|0.1|INR|56|86|Common|77|Acacia gum|
+137|Numeric|Dominican Republic|1892|Computer vended|0.1|NZD|14|58|Uncommon|14|Self-adhesive|
+592|Emblem|Dominican Republic|1884|Pneumatic post|0.1||20|81|Uncommon|77|Glue|
+501|Pictorial|Dominican Republic|1881|Postage due|0.1|BSD|16|86|Common|84|Acacia gum|
+663|Portrait|Dominican Republic|1880|Personalised|0.1|BRL|59|74|Rare|1|Acacia gum|
+69|Numeric|Dominican Republic|1875|Make up|0.1|AED|23|16|Common|13|Acacia gum|
+504|Pictorial|Dominican Republic|1859|Local post|0.1|JPY|16|98|Very Rare|49|Dextrin|
+649|Portrait|Dominican Republic|1852|Specimen|0.1|CAD|38|31|Common|88|Polyvinyl alcohol|
+751|Numeric|Dubai|1968|Test stamp|0.1|NZD|40|103|Common|11|Other|
+570|Numeric|Dubai|1959|Airmail|0.1|USD|41|60|Uncommon|46|Acacia gum|
+547|Portrait|Dubai|1958|Pneumatic post|0.1|KRW|45|20|Rare|95|Acacia gum|
+627|Numeric|Dubai|1948|Local post|0.1|BRL|53|44|Rare|67|Glue|
+392|Pictorial|Dubai|1934|Perforated|0.1|CNH|57|83|Uncommon|49|Other|
+445|Portrait|Dubai|1868|Personalised|0.1|AUD|36|68|Common|44|Dextrin|
+840|Pictorial|Dubai|1867|Personalised|0.1||24|46|Uncommon|30|Polyvinyl alcohol|
+957|Emblem|Dubai|1864|Personalised|0.1|KRW|59|92|Very Rare|68|Dextrin|
+238|Numeric|Dubai|1858|Booklet|0.1|EUR|25|76|Very Rare|27|Dextrin|
+138|Emblem|Dubai|1843|Souvenir sheet|0.1|RUB|52|109|Uncommon|73|Glue|
+295|Pictorial|Dubai|1840|Definitive|0.1|AUD|10|83|Uncommon|51|Self-adhesive|
+969|Numeric|Ecuador|1994|Airmail|0.1|CNH|23|14|Uncommon|69|Acacia gum|
+292|Emblem|Ecuador|1994|Carrier's|0.1|BRL|12|50|Uncommon|46|Polyvinyl alcohol|
+926|Portrait|Ecuador|1991|Variable value|0.1|SEK|29|44|Very Rare|86|Dextrin|
+890|Numeric|Ecuador|1983|Express|0.1|BHD|56|44|Uncommon|39|Polyvinyl alcohol|
+753|Emblem|Ecuador|1978|Commemorative|0.1|NZD|11|99|Very Rare|76|Self-adhesive|
+57|Portrait|Ecuador|1970|Military|0.1|JPY|24|78|Uncommon|32|Acacia gum|
+687|Emblem|Ecuador|1955|Carrier's|0.1|CNH|22|65|Uncommon|32|Glue|
+495|Portrait|Ecuador|1945|Commemorative|0.1|EUR|24|35|Rare|49|Glue|
+643|Portrait|Ecuador|1914|Postage currency|0.1|JPY|45|82|Uncommon|26|Polyvinyl alcohol|
+22|Portrait|Ecuador|1911|Commemorative|0.1|INR|17|13|Common|92|Polyvinyl alcohol|
+9|Emblem|Ecuador|1908|Newspaper|0.1||40|25|Very Rare|97|Polyvinyl alcohol|
+841|Pictorial|Ecuador|1887|Airmail|0.1|AED|37|18|Rare|26|Self-adhesive|
+443|Emblem|Ecuador|1883|Computer vended|0.1|CNH|27|35|Uncommon|96|Other|
+541|Pictorial|Ecuador|1882|Definitive|0.1|BHD|16|66|Rare|34|Self-adhesive|
+756|Pictorial|Egypt|2008|Official mail|0.1|RUB|21|55|Very Rare|16|Self-adhesive|
+124|Pictorial|Egypt|1992|Postage currency|0.1|SEK|18|54|Very Rare|49|Polyvinyl alcohol|
+635|Pictorial|Egypt|1991|Computer vended|0.1|AUD|49|100|Uncommon|93|Self-adhesive|
+515|Portrait|Egypt|1925|Definitive|0.1|AED|10|98|Common|51|Self-adhesive|
+809|Emblem|Egypt|1904|Overprint|0.1|AUD|52|53|Rare|25|Polyvinyl alcohol|
+730|Emblem|Egypt|1885|Postage currency|0.1|BHD|25|94|Common|86|Glue|
+988|Numeric|Egypt|1876|Local post|0.1|EUR|51|54|Uncommon|93|Other|
+341|Numeric|Egypt|1874|Express|0.1|AED|50|53|Very Rare|59|Glue|
+418|Numeric|El Salvador|1950|Specimen|0.1|USD|53|24|Very Rare|72|Polyvinyl alcohol|
+974|Pictorial|El Salvador|1942|Souvenir sheet|0.1|ARS|26|87|Uncommon|35|Dextrin|
+105|Emblem|El Salvador|1930|Souvenir sheet|0.1|EUR|18|38|Uncommon|59|Polyvinyl alcohol|
+536|Numeric|El Salvador|1910|Computer vended|0.1|CNH|44|23|Uncommon|97|Glue|
+119|Numeric|El Salvador|1905|Perforated|0.1|KRW|49|67|Common|60|Glue|
+191|Pictorial|El Salvador|1894|War tax|0.1|BSD|50|20|Uncommon|40|Acacia gum|
+545|Pictorial|El Salvador|1878|Personalised|0.1|BHD|15|42|Very Rare|65|Dextrin|
+993|Numeric|El Salvador|1848|Official mail|0.1|BRL|46|34|Uncommon|91|Polyvinyl alcohol|
+698|Emblem|El Salvador|1847|Definitive|0.1|USD|16|15|Common|23|Dextrin|
+394|Portrait|England|1984|Pneumatic post|0.1|JPY|54|45|Uncommon|91|Self-adhesive|
+176|Emblem|England|1936|Computer vended|0.1|EUR|42|93|Very Rare|17|Other|
+90|Emblem|England|1927|Perforated|0.1|BSD|12|35|Common|11|Glue|
+731|Pictorial|England|1910|Local post|0.1|NZD|32|82|Common|59|Dextrin|
+587|Numeric|England|1901|Commemorative|0.1|INR|55|108|Uncommon|10|Dextrin|
+748|Emblem|England|1882|Postage currency|0.1|AFN|54|39|Common|79|Other|
+373|Portrait|Estonia|2003|Specimen|0.1|SEK|20|54|Very Rare|87|Acacia gum|
+338|Numeric|Estonia|1999|Newspaper|0.1|BHD|17|93|Rare|12|Dextrin|
+255|Numeric|Estonia|1975|Make up|0.1|SEK|54|54|Uncommon|25|Other|
+299|Portrait|Estonia|1949|Charity|0.1|INR|51|28|Rare|79|Polyvinyl alcohol|
+832|Numeric|Estonia|1934|Variable value|0.1|AED|47|46|Very Rare|4|Other|
+815|Portrait|Estonia|1898|Military|0.1||56|17|Rare|3|Polyvinyl alcohol|
+772|Pictorial|Estonia|1889|Pneumatic post|0.1||48|56|Very Rare|53|Self-adhesive|
+41|Pictorial|Estonia|1889|Pneumatic post|0.1|RUB|44|92|Uncommon|54|Acacia gum|
+334|Numeric|Estonia|1879|Computer vended|0.1|INR|53|38|Uncommon|58|Self-adhesive|
+818|Pictorial|Estonia|1873|Variable value|0.1||28|50|Rare|7|Dextrin|
+652|Portrait|Estonia|1870|Make up|0.1|NZD|12|34|Common|28|Polyvinyl alcohol|
+344|Portrait|Estonia|1866|Certified mail|0.1|USD|46|59|Rare|38|Polyvinyl alcohol|
+584|Pictorial|Estonia|1856|Booklet|0.1|AUD|20|20|Uncommon|98|Glue|
+216|Pictorial|Fiji|1990|Make up|0.1|AFN|44|39|Uncommon|89|Polyvinyl alcohol|
+954|Portrait|Fiji|1970|Perforated|0.1||46|90|Uncommon|80|Other|
+650|Pictorial|Fiji|1955|Military|0.1|KRW|13|33|Rare|53|Polyvinyl alcohol|
+838|Portrait|Fiji|1934|Newspaper|0.1||28|18|Uncommon|35|Self-adhesive|
+743|Emblem|Fiji|1926|Personalised|0.1||22|20|Rare|88|Other|
+230|Pictorial|Fiji|1896|Local post|0.1|BHD|44|81|Uncommon|44|Polyvinyl alcohol|
+874|Emblem|Fiji|1858|Perforated|0.1|AFN|31|72|Uncommon|92|Acacia gum|
+782|Pictorial|Finland|2007|Variable value|0.1|NZD|20|13|Uncommon|1|Dextrin|
+793|Numeric|Finland|2002|Computer vended|0.1|AFN|46|107|Very Rare|26|Self-adhesive|
+509|Emblem|Finland|1930|Personalised|0.1|KRW|50|65|Uncommon|96|Acacia gum|
+741|Pictorial|Finland|1924|Test stamp|0.1||12|93|Common|32|Polyvinyl alcohol|
+458|Numeric|Finland|1893|Souvenir sheet|0.1|EUR|24|54|Uncommon|24|Dextrin|
+441|Pictorial|Finland|1866|Postage due|0.1|AED|15|58|Common|49|Other|
+619|Pictorial|Finland|1849|Overprint|0.1|BHD|49|50|Very Rare|67|Glue|
+910|Pictorial|France|2015|Specimen|0.1|INR|43|32|Uncommon|80|Acacia gum|
+36|Portrait|France|1976|Definitive|0.1|CAD|22|89|Rare|16|Self-adhesive|
+952|Portrait|France|1974|Specimen|0.1|RUB|38|78|Rare|15|Other|
+129|Emblem|France|1972|Airmail|0.1|JPY|36|49|Rare|63|Glue|
+437|Emblem|France|1968|Newspaper|0.1|AED|56|91|Common|97|Dextrin|
+59|Emblem|France|1946|Pneumatic post|0.1|RUB|53|64|Very Rare|22|Dextrin|
+770|Pictorial|France|1940|Computer vended|0.1|BSD|30|100|Uncommon|48|Glue|
+25|Pictorial|France|1938|Variable value|0.1|JPY|59|77|Very Rare|74|Polyvinyl alcohol|
+44|Emblem|France|1934|Local post|0.1|BHD|16|98|Very Rare|65|Other|
+623|Emblem|France|1900|Non-denominated|0.1|AED|42|33|Uncommon|22|Other|
+893|Emblem|France|1899|Postage due|0.1|KRW|15|40|Uncommon|77|Other|
+202|Pictorial|France|1896|Souvenir sheet|0.1|USD|33|102|Common|58|Dextrin|
+374|Portrait|France|1887|Postage due|0.1|ARS|35|105|Common|65|Acacia gum|
+0|Pictorial|France|1886|Make up|0.1|AED|26|60|Very Rare|17|Self-adhesive|
+210|Numeric|France|1868|Specimen|0.1||16|107|Very Rare|10|Self-adhesive|
+343|Pictorial|France|1852|Booklet|0.1|INR|36|64|Common|93|Glue|
+984|Numeric|Georgia|2016|Newspaper|0.1||32|63|Very Rare|82|Self-adhesive|
+151|Pictorial|Georgia|2016|Newspaper|0.1||44|34|Very Rare|18|Self-adhesive|
+891|Portrait|Georgia|1977|Official mail|0.1|EUR|37|33|Uncommon|33|Acacia gum|
+624|Portrait|Georgia|1963|Variable value|0.1|CNH|10|75|Very Rare|71|Glue|
+981|Emblem|Georgia|1952|Carrier's|0.1|EUR|31|31|Rare|71|Glue|
+32|Pictorial|Georgia|1942|Postage due|0.1|AUD|34|88|Rare|55|Dextrin|
+781|Numeric|Georgia|1934|Make up|0.1|KRW|25|104|Common|28|Glue|
+846|Emblem|Georgia|1922|Postage due|0.1|AUD|57|82|Very Rare|34|Other|
+903|Numeric|Georgia|1907|Overprint|0.1|NZD|25|14|Very Rare|55|Other|
+750|Emblem|Georgia|1904|Commemorative|0.1|SEK|41|12|Rare|3|Glue|
+115|Numeric|Georgia|1883|Official mail|0.1|AFN|34|76|Uncommon|44|Dextrin|
+496|Pictorial|Georgia|1870|Military|0.1|BHD|18|93|Uncommon|89|Polyvinyl alcohol|
+598|Emblem|Georgia|1865|Charity|0.1|NZD|58|30|Very Rare|92|Polyvinyl alcohol|
+712|Pictorial|Georgia|1840|Postage due|0.1|RUB|49|55|Uncommon|26|Polyvinyl alcohol|
+365|Numeric|Germany|2001|Perforated|0.1|CNH|16|26|Uncommon|7|Other|
+214|Pictorial|Germany|1994|Make up|0.1|AED|48|89|Rare|20|Dextrin|
+332|Portrait|Germany|1977|Express|0.1|USD|43|36|Very Rare|66|Acacia gum|
+319|Numeric|Germany|1973|Military|0.1|EUR|14|92|Very Rare|3|Acacia gum|
+10|Pictorial|Germany|1929|Pneumatic post|0.1|SEK|26|80|Rare|18|Acacia gum|
+485|Numeric|Germany|1925|Coil|0.1|BRL|48|37|Very Rare|86|Dextrin|
+440|Numeric|Germany|1924|Computer vended|0.1|SEK|50|33|Common|40|Glue|
+828|Numeric|Germany|1923|Overprint|0.1|BHD|13|102|Very Rare|12|Glue|
+786|Portrait|Germany|1917|Personalised|0.1|JPY|32|40|Uncommon|55|Acacia gum|
+370|Portrait|Germany|1894|Newspaper|0.1|USD|39|92|Common|89|Other|
+470|Pictorial|Germany|1889|Official mail|0.1|AFN|56|87|Very Rare|99|Acacia gum|
+24|Portrait|Germany|1872|Perforated|0.1|RUB|22|90|Very Rare|97|Other|
+950|Pictorial|Germany|1865|Make up|0.1||50|92|Very Rare|87|Self-adhesive|
+665|Emblem|Germany|1862|Express|0.1|NZD|22|49|Very Rare|60|Dextrin|
+583|Portrait|Ghana|1983|Definitive|0.1|USD|24|108|Uncommon|6|Dextrin|
+849|Pictorial|Ghana|1970|Pneumatic post|0.1||34|21|Rare|34|Dextrin|
+263|Portrait|Ghana|1959|War tax|0.1|BRL|12|64|Uncommon|2|Self-adhesive|
+270|Emblem|Ghana|1956|Express|0.1|RUB|36|101|Rare|5|Other|
+800|Portrait|Ghana|1916|Computer vended|0.1||33|46|Common|21|Acacia gum|
+816|Emblem|Ghana|1915|Variable value|0.1|AED|56|26|Rare|47|Other|
+523|Pictorial|Ghana|1909|Postage currency|0.1|AUD|17|82|Uncommon|94|Other|
+84|Numeric|Ghana|1890|War tax|0.1||22|92|Rare|9|Other|
+139|Pictorial|Ghana|1881|Carrier's|0.1|AED|11|72|Uncommon|84|Acacia gum|
+78|Pictorial|Ghana|1860|Carrier's|0.1|CNH|13|56|Uncommon|68|Other|
+878|Portrait|Greece|2002|Postage due|0.1|BRL|53|22|Very Rare|49|Glue|
+645|Pictorial|Greece|1983|Make up|0.1|NZD|40|74|Rare|34|Other|
+379|Pictorial|Greece|1977|Postage currency|0.1|INR|19|28|Uncommon|33|Glue|
+302|Pictorial|Greece|1976|Commemorative|0.1|AUD|38|12|Common|60|Acacia gum|
+996|Pictorial|Greece|1939|Perforated|0.1||48|51|Very Rare|70|Acacia gum|
+461|Pictorial|Greece|1930|Personalised|0.1|INR|17|64|Rare|84|Dextrin|
+311|Portrait|Greece|1927|War tax|0.1|JPY|50|60|Common|42|Other|
+268|Numeric|Greece|1860|Coil|0.1|BSD|34|10|Common|90|Self-adhesive|
+699|Numeric|Greenland|1977|Computer vended|0.1|CAD|33|92|Uncommon|96|Acacia gum|
+806|Numeric|Greenland|1970|Booklet|0.1|USD|24|78|Rare|65|Dextrin|
+546|Emblem|Greenland|1904|Postage due|0.1|INR|30|97|Uncommon|27|Acacia gum|
+565|Numeric|Greenland|1897|Overprint|0.1|USD|47|18|Common|97|Other|
+23|Pictorial|Greenland|1891|Booklet|0.1|GBP|50|38|Common|14|Other|
+847|Portrait|Greenland|1889|Express|0.1|CAD|31|101|Common|82|Glue|
+281|Numeric|Greenland|1844|Postage currency|0.1|INR|41|32|Uncommon|90|Other|
+155|Pictorial|Guatemala|2008|Computer vended|0.1|INR|49|73|Rare|47|Dextrin|
+91|Portrait|Guatemala|2000|Specimen|0.1|BSD|32|86|Very Rare|76|Acacia gum|
+330|Numeric|Guatemala|1999|Perforated|0.1|JPY|20|78|Common|39|Acacia gum|
+142|Emblem|Guatemala|1991|Overprint|0.1|KRW|21|18|Very Rare|6|Acacia gum|
+460|Emblem|Guatemala|1979|Test stamp|0.1|CNH|27|50|Very Rare|89|Polyvinyl alcohol|
+711|Numeric|Guatemala|1968|Non-denominated|0.1|USD|50|73|Common|63|Glue|
+336|Emblem|Guatemala|1964|Postage due|0.1||33|75|Common|48|Other|
+206|Portrait|Guatemala|1953|Local post|0.1|SEK|58|25|Very Rare|41|Glue|
+729|Pictorial|Guatemala|1942|Certified mail|0.1|CNH|42|10|Rare|32|Glue|
+402|Pictorial|Guatemala|1909|Variable value|0.1||31|20|Rare|86|Other|
+527|Numeric|Guatemala|1904|Newspaper|0.1|USD|30|92|Common|66|Dextrin|
+121|Emblem|Guatemala|1878|Local post|0.1|USD|33|57|Rare|71|Polyvinyl alcohol|
+754|Pictorial|Guatemala|1868|Carrier's|0.1||28|49|Rare|55|Other|
+215|Emblem|Guatemala|1864|Certified mail|0.1|GBP|52|55|Very Rare|99|Glue|
+389|Pictorial|Guatemala|1858|Computer vended|0.1|BRL|38|55|Very Rare|53|Polyvinyl alcohol|
+566|Portrait|Guatemala|1852|Computer vended|0.1||10|41|Very Rare|38|Self-adhesive|
+538|Portrait|Haiti|2016|Overprint|0.1|CNH|35|60|Rare|29|Self-adhesive|
+113|Portrait|Haiti|1967|Postage due|0.1|KRW|42|40|Rare|86|Acacia gum|
+360|Pictorial|Haiti|1961|Commemorative|0.1|CAD|10|36|Very Rare|59|Other|
+205|Pictorial|Haiti|1952|Test stamp|0.1|CNH|19|37|Uncommon|87|Polyvinyl alcohol|
+749|Emblem|Haiti|1939|Postage currency|0.1|BHD|26|91|Uncommon|34|Polyvinyl alcohol|
+484|Pictorial|Haiti|1938|Charity|0.1||27|52|Common|2|Other|
+879|Pictorial|Haiti|1927|Computer vended|0.1|JPY|48|109|Rare|79|Glue|
+227|Pictorial|Haiti|1918|Carrier's|0.1|USD|39|44|Common|96|Other|
+251|Emblem|Haiti|1899|Express|0.1|USD|33|95|Uncommon|61|Other|
+985|Emblem|Haiti|1879|Express|0.1||52|21|Common|68|Polyvinyl alcohol|
+381|Portrait|Haiti|1878|Local post|0.1|BHD|36|40|Rare|12|Acacia gum|
+128|Emblem|Haiti|1877|War tax|0.1|EUR|12|34|Rare|63|Acacia gum|
+502|Pictorial|Haiti|1857|Certified mail|0.1|EUR|24|86|Very Rare|11|Acacia gum|
+428|Numeric|Hong Kong|2013|Postage currency|0.1|INR|45|93|Uncommon|46|Other|
+194|Pictorial|Hong Kong|2004|Charity|0.1|BSD|49|71|Very Rare|2|Polyvinyl alcohol|
+544|Numeric|Hong Kong|2002|Postage due|0.1|AED|47|39|Very Rare|31|Self-adhesive|
+977|Portrait|Hong Kong|1991|Official mail|0.1|CNH|11|92|Very Rare|20|Glue|
+569|Emblem|Hong Kong|1988|War tax|0.1||56|81|Rare|12|Self-adhesive|
+923|Numeric|Hong Kong|1983|Specimen|0.1||46|37|Uncommon|17|Polyvinyl alcohol|
+92|Emblem|Hong Kong|1942|Non-denominated|0.1|NZD|46|81|Rare|48|Glue|
+563|Emblem|Hong Kong|1929|Postage currency|0.1|RUB|23|22|Very Rare|95|Other|
+196|Portrait|Hong Kong|1899|Specimen|0.1|JPY|32|34|Uncommon|26|Polyvinyl alcohol|
+696|Emblem|Hungary|1998|Perforated|0.1||37|78|Uncommon|80|Polyvinyl alcohol|
+200|Pictorial|Hungary|1974|Newspaper|0.1|CNH|39|19|Common|53|Polyvinyl alcohol|
+382|Portrait|Hungary|1971|Certified mail|0.1|BSD|34|85|Uncommon|59|Acacia gum|
+904|Pictorial|Hungary|1967|Make up|0.1||21|83|Uncommon|34|Other|
+241|Numeric|Hungary|1961|Non-denominated|0.1|EUR|48|80|Uncommon|13|Glue|
+419|Numeric|Hungary|1938|Charity|0.1|GBP|37|11|Very Rare|59|Acacia gum|
+844|Emblem|Hungary|1932|Postage currency|0.1|AFN|59|16|Uncommon|40|Glue|
+966|Numeric|Hungary|1906|Commemorative|0.1||54|48|Common|40|Other|
+158|Pictorial|Hungary|1905|Airmail|0.1|CNH|16|19|Common|53|Acacia gum|
+657|Portrait|Hungary|1891|Local post|0.1|AFN|27|55|Common|65|Dextrin|
+639|Numeric|Hungary|1890|Computer vended|0.1|GBP|46|29|Rare|20|Polyvinyl alcohol|
+914|Numeric|Hungary|1881|Test stamp|0.1|BHD|55|33|Rare|70|Acacia gum|
+174|Pictorial|Iceland|2010|War tax|0.1||12|20|Uncommon|52|Acacia gum|
+824|Portrait|Iceland|1993|War tax|0.1|JPY|36|60|Very Rare|71|Self-adhesive|
+521|Portrait|Iceland|1973|Carrier's|0.1|EUR|51|78|Very Rare|31|Glue|
+497|Numeric|Iceland|1928|Test stamp|0.1|AUD|47|77|Common|2|Other|
+272|Portrait|Iceland|1920|Specimen|0.1|KRW|40|42|Uncommon|61|Other|
+265|Numeric|Iceland|1918|Personalised|0.1|AFN|41|19|Very Rare|40|Acacia gum|
+638|Numeric|Iceland|1881|Overprint|0.1|SEK|36|82|Uncommon|24|Polyvinyl alcohol|
+361|Emblem|Iceland|1854|Non-denominated|0.1|GBP|35|55|Very Rare|44|Glue|
+99|Portrait|Iceland|1842|Computer vended|0.1|AUD|29|72|Rare|15|Polyvinyl alcohol|
+861|Numeric|India|1974|Airmail|0.1|NZD|53|104|Very Rare|22|Self-adhesive|
+252|Emblem|India|1953|Souvenir sheet|0.1|AFN|41|101|Very Rare|77|Self-adhesive|
+173|Pictorial|India|1933|Computer vended|0.1|BRL|48|101|Common|97|Polyvinyl alcohol|
+50|Numeric|India|1899|Variable value|0.1|INR|38|79|Rare|27|Dextrin|
+917|Pictorial|India|1880|Perforated|0.1|KRW|48|37|Very Rare|44|Acacia gum|
+651|Numeric|India|1867|Souvenir sheet|0.1|CNH|33|87|Very Rare|10|Self-adhesive|
+273|Pictorial|India|1843|Variable value|0.1|AED|19|78|Common|78|Dextrin|
+703|Emblem|Indonesia|2001|Newspaper|0.1|ARS|26|78|Very Rare|84|Polyvinyl alcohol|
+439|Emblem|Indonesia|2000|Personalised|0.1|AED|47|108|Rare|75|Polyvinyl alcohol|
+666|Numeric|Indonesia|1959|Airmail|0.1|RUB|27|23|Rare|76|Dextrin|
+27|Pictorial|Indonesia|1941|Personalised|0.1|BHD|30|51|Very Rare|78|Glue|
+107|Portrait|Indonesia|1933|War tax|0.1||53|50|Uncommon|69|Self-adhesive|
+970|Portrait|Indonesia|1928|Computer vended|0.1|BHD|45|89|Rare|59|Acacia gum|
+959|Pictorial|Indonesia|1915|Commemorative|0.1|AUD|15|51|Very Rare|23|Other|
+620|Portrait|Indonesia|1899|Charity|0.1|SEK|18|28|Rare|23|Dextrin|
+672|Emblem|Indonesia|1895|Postage due|0.1|NZD|36|14|Uncommon|34|Self-adhesive|
+733|Numeric|Indonesia|1887|Official mail|0.1|AED|53|104|Very Rare|27|Acacia gum|
+801|Emblem|Indonesia|1874|Non-denominated|0.1|INR|43|94|Very Rare|53|Glue|
+248|Portrait|Iran|2013|Local post|0.1|CNH|29|93|Rare|62|Dextrin|
+385|Numeric|Iran|2005|Military|0.1|CNH|30|55|Uncommon|17|Dextrin|
+724|Portrait|Iran|1963|Perforated|0.1|AED|26|42|Rare|94|Acacia gum|
+154|Numeric|Iran|1962|Perforated|0.1|CNH|21|57|Very Rare|67|Polyvinyl alcohol|
+690|Portrait|Iran|1957|War tax|0.1|ARS|41|101|Rare|71|Self-adhesive|
+146|Pictorial|Iran|1937|Non-denominated|0.1|NZD|51|32|Common|27|Self-adhesive|
+5|Emblem|Iran|1934|Military|0.1|AFN|49|24|Common|62|Acacia gum|
+271|Numeric|Iran|1927|Computer vended|0.1|KRW|34|54|Uncommon|87|Other|
+466|Emblem|Iran|1925|Booklet|0.1|JPY|23|24|Uncommon|81|Acacia gum|
+539|Portrait|Iran|1916|Certified mail|0.1|ARS|39|41|Very Rare|18|Acacia gum|
+833|Portrait|Iran|1911|Computer vended|0.1|JPY|38|46|Very Rare|18|Acacia gum|
+363|Portrait|Iran|1890|War tax|0.1|BHD|58|94|Rare|60|Acacia gum|
+979|Emblem|Iran|1888|Definitive|0.1||33|34|Uncommon|18|Glue|
+857|Numeric|Iran|1873|Overprint|0.1|RUB|50|73|Very Rare|40|Other|
+171|Emblem|Iran|1851|Charity|0.1|BRL|49|26|Uncommon|26|Polyvinyl alcohol|
+561|Numeric|Iraq|1994|War tax|0.1|NZD|37|49|Very Rare|83|Other|
+618|Portrait|Iraq|1955|Postage due|0.1|KRW|24|86|Rare|85|Acacia gum|
+250|Portrait|Iraq|1947|Non-denominated|0.1||16|49|Uncommon|79|Glue|
+532|Numeric|Iraq|1922|Test stamp|0.1|BHD|55|47|Very Rare|84|Dextrin|
+692|Portrait|Israel|2012|Military|0.1|CNH|48|30|Very Rare|65|Dextrin|
+512|Numeric|Israel|2000|Military|0.1|ARS|43|90|Common|50|Other|
+556|Emblem|Israel|1997|Certified mail|0.1|BSD|19|58|Uncommon|7|Self-adhesive|
+899|Emblem|Israel|1984|Postage currency|0.1|SEK|17|39|Very Rare|74|Polyvinyl alcohol|
+726|Pictorial|Israel|1982|Airmail|0.1|BRL|28|78|Common|5|Self-adhesive|
+826|Emblem|Israel|1952|Perforated|0.1|BSD|47|82|Very Rare|47|Glue|
+454|Portrait|Israel|1952|Carrier's|0.1|GBP|41|93|Uncommon|65|Acacia gum|
+534|Pictorial|Israel|1926|Coil|0.1|RUB|26|78|Rare|65|Polyvinyl alcohol|
+436|Emblem|Israel|1871|Coil|0.1|AUD|34|32|Common|98|Glue|
+888|Pictorial|Italy|2005|Express|0.1|ARS|22|87|Uncommon|39|Dextrin|
+399|Portrait|Italy|2004|Express|0.1|KRW|53|45|Very Rare|57|Polyvinyl alcohol|
+858|Emblem|Italy|2002|Pneumatic post|0.1|CAD|33|90|Rare|3|Self-adhesive|
+489|Portrait|Italy|1991|Definitive|0.1|GBP|30|75|Rare|56|Dextrin|
+783|Numeric|Italy|1962|Military|0.1|NZD|24|98|Common|58|Other|
+198|Emblem|Italy|1959|Carrier's|0.1|SEK|54|24|Very Rare|31|Polyvinyl alcohol|
+475|Portrait|Italy|1943|Charity|0.1|AED|32|36|Rare|69|Acacia gum|
+863|Emblem|Italy|1941|Personalised|0.1|AUD|56|90|Uncommon|82|Polyvinyl alcohol|
+267|Numeric|Italy|1941|Computer vended|0.1|USD|52|105|Rare|77|Glue|
+670|Portrait|Italy|1925|Non-denominated|0.1|INR|20|97|Uncommon|3|Dextrin|
+309|Portrait|Italy|1924|Variable value|0.1|CAD|50|29|Common|1|Dextrin|
+378|Emblem|Italy|1919|Personalised|0.1|INR|59|66|Uncommon|25|Dextrin|
+406|Portrait|Italy|1898|Pneumatic post|0.1|GBP|51|29|Very Rare|29|Glue|
+764|Pictorial|Italy|1851|Test stamp|0.1||33|87|Very Rare|28|Other|
+498|Emblem|Italy|1841|Coil|0.1||57|35|Rare|91|Dextrin|
+785|Numeric|Jamaica|1977|Perforated|0.1|BRL|16|88|Rare|77|Glue|
+17|Emblem|Jamaica|1967|Newspaper|0.1||11|35|Very Rare|15|Other|
+228|Emblem|Jamaica|1957|Souvenir sheet|0.1|BSD|28|74|Uncommon|99|Self-adhesive|
+408|Pictorial|Jamaica|1952|Computer vended|0.1|ARS|10|46|Rare|6|Self-adhesive|
+223|Portrait|Jamaica|1904|Local post|0.1|JPY|14|51|Very Rare|65|Self-adhesive|
+189|Emblem|Jamaica|1898|Military|0.1|RUB|10|55|Rare|56|Acacia gum|
+148|Pictorial|Jamaica|1896|Coil|0.1|GBP|48|20|Rare|2|Self-adhesive|
+493|Pictorial|Jamaica|1855|Variable value|0.1|KRW|28|90|Rare|14|Self-adhesive|
+622|Pictorial|Japan|2005|Booklet|0.1||59|78|Uncommon|73|Polyvinyl alcohol|
+308|Numeric|Japan|2002|Certified mail|0.1|RUB|57|12|Uncommon|40|Other|
+701|Numeric|Japan|1990|Perforated|0.1|JPY|29|58|Uncommon|48|Glue|
+190|Portrait|Japan|1977|Express|0.1|EUR|10|21|Rare|93|Other|
+222|Numeric|Japan|1967|Variable value|0.1||12|64|Very Rare|5|Glue|
+530|Emblem|Japan|1956|Pneumatic post|0.1|BRL|41|12|Very Rare|9|Polyvinyl alcohol|
+104|Emblem|Japan|1943|Definitive|0.1|NZD|20|108|Uncommon|4|Polyvinyl alcohol|
+933|Portrait|Japan|1902|Booklet|0.1|USD|39|95|Uncommon|98|Glue|
+626|Numeric|Japan|1876|Make up|0.1|JPY|20|66|Common|81|Dextrin|
+422|Portrait|Japan|1873|Postage due|0.1|CAD|26|16|Very Rare|94|Self-adhesive|
+594|Emblem|Kazakhstan|2003|Computer vended|0.1|INR|48|94|Common|82|Polyvinyl alcohol|
+562|Emblem|Kazakhstan|2000|Express|0.1|KRW|53|68|Rare|35|Acacia gum|
+300|Pictorial|Kazakhstan|1999|Non-denominated|0.1|EUR|56|20|Common|32|Glue|
+654|Portrait|Kazakhstan|1979|Military|0.1|RUB|19|86|Uncommon|30|Polyvinyl alcohol|
+513|Portrait|Kazakhstan|1969|Non-denominated|0.1||37|56|Rare|41|Acacia gum|
+717|Numeric|Kazakhstan|1939|Test stamp|0.1||42|83|Rare|93|Acacia gum|
+647|Pictorial|Kazakhstan|1929|Official mail|0.1|AED|19|40|Uncommon|24|Other|
+482|Emblem|Kazakhstan|1902|Computer vended|0.1|USD|17|22|Uncommon|31|Other|
+89|Pictorial|Kazakhstan|1900|Carrier's|0.1|INR|24|91|Very Rare|97|Acacia gum|
+721|Pictorial|Kazakhstan|1894|Pneumatic post|0.1|AUD|59|109|Uncommon|9|Other|
+232|Numeric|Kazakhstan|1886|Souvenir sheet|0.1||28|20|Common|97|Self-adhesive|
+425|Portrait|Kazakhstan|1884|Carrier's|0.1|AED|12|26|Very Rare|29|Glue|
+430|Portrait|Kazakhstan|1865|Test stamp|0.1||16|28|Very Rare|84|Acacia gum|
+294|Portrait|Kazakhstan|1860|Test stamp|0.1|USD|35|78|Very Rare|74|Polyvinyl alcohol|
+457|Pictorial|Kazakhstan|1852|War tax|0.1|GBP|48|45|Rare|88|Glue|
+156|Emblem|Kazakhstan|1849|Official mail|0.1|GBP|58|49|Very Rare|57|Self-adhesive|
+763|Numeric|Korea|2000|Official mail|0.1|CNH|35|65|Uncommon|5|Glue|
+391|Pictorial|Korea|1992|Local post|0.1|BHD|44|79|Rare|37|Glue|
+88|Pictorial|Korea|1987|Definitive|0.1|ARS|13|108|Very Rare|56|Acacia gum|
+803|Pictorial|Korea|1944|Airmail|0.1|BSD|16|96|Rare|89|Acacia gum|
+922|Numeric|Korea|1928|Overprint|0.1|CNH|20|64|Rare|67|Acacia gum|
+735|Emblem|Korea|1913|Local post|0.1||38|44|Common|82|Self-adhesive|
+217|Pictorial|Korea|1910|Specimen|0.1|BRL|22|75|Common|89|Other|
+283|Numeric|Korea|1903|Booklet|0.1|CAD|58|26|Uncommon|68|Polyvinyl alcohol|
+414|Pictorial|Korea|1897|Official mail|0.1|NZD|43|34|Very Rare|80|Polyvinyl alcohol|
+455|Pictorial|Korea|1895|Commemorative|0.1|BRL|30|32|Uncommon|4|Dextrin|
+601|Portrait|Korea|1886|Specimen|0.1|BHD|48|66|Common|44|Self-adhesive|
+40|Numeric|Korea|1854|Definitive|0.1|SEK|49|88|Rare|45|Dextrin|
+31|Pictorial|Latvia|1953|Specimen|0.1|AFN|10|94|Uncommon|22|Glue|
+895|Emblem|Latvia|1948|Newspaper|0.1|KRW|47|90|Very Rare|91|Other|
+507|Emblem|Latvia|1948|Variable value|0.1||31|108|Uncommon|1|Other|
+886|Portrait|Latvia|1942|Overprint|0.1||56|38|Uncommon|86|Other|
+368|Emblem|Latvia|1938|Souvenir sheet|0.1|BHD|21|55|Very Rare|4|Dextrin|
+941|Pictorial|Latvia|1923|Certified mail|0.1|BHD|51|79|Very Rare|87|Glue|
+286|Pictorial|Latvia|1856|Postage currency|0.1|CAD|43|11|Uncommon|57|Polyvinyl alcohol|
+481|Portrait|Latvia|1852|Airmail|0.1|RUB|24|66|Uncommon|26|Polyvinyl alcohol|
+401|Numeric|Luxembourg|2015|Postage currency|0.1|BRL|34|80|Rare|46|Polyvinyl alcohol|
+571|Numeric|Luxembourg|2009|Coil|0.1|NZD|57|102|Very Rare|2|Glue|
+420|Portrait|Luxembourg|1990|Coil|0.1|KRW|31|73|Very Rare|28|Self-adhesive|
+435|Pictorial|Luxembourg|1941|Definitive|0.1||32|20|Rare|32|Other|
+596|Pictorial|Luxembourg|1934|Military|0.1|AUD|54|21|Very Rare|20|Polyvinyl alcohol|
+600|Emblem|Luxembourg|1926|Overprint|0.1|INR|57|77|Rare|27|Acacia gum|
+873|Pictorial|Luxembourg|1924|Booklet|0.1|JPY|20|36|Rare|21|Acacia gum|
+364|Numeric|Luxembourg|1918|Coil|0.1|BHD|59|98|Uncommon|92|Self-adhesive|
+390|Emblem|Luxembourg|1913|Computer vended|0.1|SEK|54|93|Common|80|Glue|
+120|Numeric|Luxembourg|1883|Carrier's|0.1|NZD|46|84|Rare|48|Polyvinyl alcohol|
+339|Pictorial|Luxembourg|1882|Non-denominated|0.1||21|11|Common|46|Self-adhesive|
+585|Numeric|Luxembourg|1852|Booklet|0.1|SEK|46|96|Rare|31|Acacia gum|
+77|Pictorial|Luxembourg|1852|Specimen|0.1|BSD|41|34|Very Rare|20|Other|
+971|Portrait|Luxembourg|1846|Coil|0.1|JPY|53|21|Very Rare|45|Glue|
+26|Portrait|Macedonia|1999|Pneumatic post|0.1|AED|49|19|Very Rare|19|Acacia gum|
+653|Portrait|Macedonia|1993|Specimen|0.1|NZD|27|91|Common|92|Polyvinyl alcohol|
+947|Pictorial|Macedonia|1963|Coil|0.1|ARS|59|84|Very Rare|83|Acacia gum|
+221|Emblem|Macedonia|1953|Personalised|0.1|USD|32|77|Uncommon|31|Self-adhesive|
+178|Portrait|Macedonia|1939|Overprint|0.1|CAD|22|40|Rare|59|Self-adhesive|
+776|Emblem|Macedonia|1935|Postage currency|0.1|CAD|30|98|Very Rare|80|Self-adhesive|
+326|Pictorial|Macedonia|1927|Newspaper|0.1|KRW|31|98|Rare|48|Dextrin|
+980|Portrait|Macedonia|1925|Express|0.1|AUD|56|50|Rare|96|Acacia gum|
+667|Pictorial|Macedonia|1907|Overprint|0.1|ARS|54|94|Rare|39|Polyvinyl alcohol|
+264|Emblem|Macedonia|1905|Test stamp|0.1|EUR|20|70|Very Rare|86|Polyvinyl alcohol|
+689|Numeric|Macedonia|1900|Local post|0.1|GBP|51|64|Common|20|Other|
+790|Pictorial|Macedonia|1894|Non-denominated|0.1|ARS|30|21|Very Rare|83|Glue|
+280|Emblem|Macedonia|1891|Airmail|0.1|ARS|15|85|Rare|39|Self-adhesive|
+133|Portrait|Macedonia|1875|War tax|0.1|BSD|48|45|Common|97|Polyvinyl alcohol|
+951|Emblem|Macedonia|1866|Charity|0.1|INR|22|13|Common|83|Self-adhesive|
+787|Numeric|Malawi|2009|Newspaper|0.1|EUR|14|77|Very Rare|31|Self-adhesive|
+144|Numeric|Malawi|1974|Pneumatic post|0.1|INR|51|107|Common|83|Acacia gum|
+37|Portrait|Malawi|1970|Variable value|0.1|EUR|45|100|Common|58|Glue|
+679|Emblem|Malawi|1965|Express|0.1|BHD|55|23|Rare|48|Polyvinyl alcohol|
+153|Portrait|Malawi|1955|Booklet|0.1|BRL|55|26|Rare|12|Acacia gum|
+51|Emblem|Malawi|1922|Test stamp|0.1|BRL|26|66|Rare|24|Acacia gum|
+450|Numeric|Malawi|1920|Non-denominated|0.1|AFN|51|78|Rare|11|Polyvinyl alcohol|
+415|Numeric|Malawi|1912|Local post|0.1|EUR|17|108|Very Rare|37|Polyvinyl alcohol|
+277|Pictorial|Malawi|1903|Commemorative|0.1|GBP|39|25|Rare|10|Dextrin|
+342|Emblem|Malawi|1897|Commemorative|0.1|RUB|46|16|Very Rare|61|Self-adhesive|
+376|Emblem|Malaysia|2005|Booklet|0.1|INR|25|53|Very Rare|64|Other|
+551|Emblem|Malaysia|1996|Specimen|0.1||44|83|Rare|52|Glue|
+930|Portrait|Malaysia|1972|Specimen|0.1|ARS|45|39|Uncommon|22|Acacia gum|
+704|Numeric|Malaysia|1961|Definitive|0.1|EUR|26|14|Rare|12|Dextrin|
+854|Emblem|Malaysia|1909|Local post|0.1|BRL|33|21|Common|34|Dextrin|
+126|Emblem|Malaysia|1897|Charity|0.1||37|108|Uncommon|94|Glue|
+95|Pictorial|Malaysia|1891|Newspaper|0.1|EUR|17|37|Uncommon|61|Other|
+34|Portrait|Malaysia|1883|Test stamp|0.1|GBP|29|55|Very Rare|97|Other|
+110|Portrait|Malaysia|1843|Official mail|0.1|INR|49|22|Very Rare|73|Self-adhesive|
+48|Numeric|Malta|1961|Airmail|0.1|BRL|22|105|Very Rare|41|Glue|
+805|Portrait|Malta|1925|Specimen|0.1|BSD|33|97|Very Rare|3|Polyvinyl alcohol|
+732|Emblem|Malta|1900|Variable value|0.1|JPY|30|65|Very Rare|11|Acacia gum|
+208|Portrait|Malta|1885|Charity|0.1|RUB|53|46|Uncommon|35|Other|
+305|Numeric|Malta|1881|Commemorative|0.1|JPY|47|60|Very Rare|86|Dextrin|
+560|Pictorial|Malta|1874|Postage currency|0.1|AFN|14|46|Rare|95|Dextrin|
+695|Pictorial|Malta|1872|War tax|0.1|AUD|27|33|Uncommon|93|Self-adhesive|
+778|Portrait|Malta|1868|Variable value|0.1||30|11|Common|36|Self-adhesive|
+554|Pictorial|Malta|1864|Certified mail|0.1|USD|43|79|Very Rare|9|Self-adhesive|
+851|Numeric|Malta|1861|Specimen|0.1|USD|43|15|Uncommon|58|Acacia gum|
+718|Pictorial|Malta|1860|Local post|0.1|KRW|34|101|Rare|21|Dextrin|
+537|Portrait|Malta|1850|Certified mail|0.1|EUR|53|32|Common|18|Glue|
+555|Portrait|Mexico|2010|Make up|0.1|KRW|47|67|Very Rare|3|Glue|
+848|Numeric|Mexico|1972|Make up|0.1|BRL|55|23|Very Rare|74|Self-adhesive|
+16|Portrait|Mexico|1950|War tax|0.1|AUD|15|96|Very Rare|20|Glue|
+829|Numeric|Mexico|1946|Express|0.1|CAD|33|109|Rare|54|Glue|
+568|Emblem|Mexico|1916|Specimen|0.1|BSD|13|67|Rare|80|Polyvinyl alcohol|
+723|Pictorial|Mexico|1862|Local post|0.1|RUB|58|104|Uncommon|73|Polyvinyl alcohol|
+106|Numeric|Moldova|2010|Computer vended|0.1||21|51|Uncommon|45|Self-adhesive|
+447|Numeric|Moldova|1971|War tax|0.1|GBP|21|101|Rare|34|Acacia gum|
+93|Portrait|Moldova|1970|Souvenir sheet|0.1|ARS|51|85|Uncommon|100|Polyvinyl alcohol|
+972|Emblem|Moldova|1966|Pneumatic post|0.1|NZD|54|34|Uncommon|26|Glue|
+865|Emblem|Moldova|1955|Test stamp|0.1|CNH|50|70|Very Rare|41|Polyvinyl alcohol|
+633|Emblem|Moldova|1893|Variable value|0.1|ARS|35|28|Very Rare|87|Self-adhesive|
+900|Emblem|Moldova|1891|Carrier's|0.1|AUD|48|58|Uncommon|94|Acacia gum|
+669|Emblem|Moldova|1884|Charity|0.1|ARS|11|96|Common|11|Polyvinyl alcohol|
+21|Pictorial|Moldova|1861|Personalised|0.1|BHD|28|34|Common|80|Glue|
+908|Portrait|Moldova|1859|Souvenir sheet|0.1|AUD|45|78|Very Rare|89|Polyvinyl alcohol|
+486|Portrait|Moldova|1857|Variable value|0.1|NZD|54|73|Uncommon|75|Acacia gum|
+14|Emblem|Mongolia|2012|Certified mail|0.1|ARS|18|47|Very Rare|35|Dextrin|
+990|Portrait|Mongolia|2008|Carrier's|0.1|INR|47|10|Rare|10|Acacia gum|
+499|Numeric|Mongolia|1998|Overprint|0.1|ARS|42|76|Very Rare|93|Acacia gum|
+331|Emblem|Mongolia|1997|Postage due|0.1|RUB|17|55|Rare|56|Acacia gum|
+581|Portrait|Mongolia|1949|Airmail|0.1|NZD|49|105|Rare|2|Dextrin|
+664|Portrait|Mongolia|1946|Non-denominated|0.1||27|77|Uncommon|75|Self-adhesive|
+289|Portrait|Mongolia|1868|Personalised|0.1|JPY|20|58|Very Rare|21|Glue|
+835|Pictorial|Mongolia|1859|Military|0.1|BRL|10|17|Very Rare|97|Self-adhesive|
+249|Emblem|Nepal|2014|Specimen|0.1|USD|58|77|Very Rare|48|Dextrin|
+29|Numeric|Nepal|1978|Airmail|0.1|ARS|27|83|Very Rare|42|Polyvinyl alcohol|
+429|Portrait|Nepal|1969|Newspaper|0.1|EUR|36|54|Rare|32|Dextrin|
+578|Emblem|Nepal|1940|Non-denominated|0.1|AED|43|48|Common|96|Self-adhesive|
+991|Numeric|Nepal|1927|Express|0.1|CAD|19|95|Very Rare|50|Dextrin|
+693|Pictorial|Nepal|1911|Non-denominated|0.1|USD|15|37|Common|97|Other|
+939|Pictorial|Nepal|1902|Charity|0.1|BHD|34|53|Common|59|Polyvinyl alcohol|
+839|Portrait|Nepal|1877|Specimen|0.1|KRW|33|90|Very Rare|5|Self-adhesive|
+880|Numeric|Nepal|1873|Postage due|0.1|NZD|26|95|Very Rare|34|Other|
+66|Portrait|Nepal|1858|Personalised|0.1||33|77|Rare|53|Glue|
+744|Numeric|Nepal|1851|Charity|0.1|GBP|32|35|Uncommon|43|Polyvinyl alcohol|
+734|Pictorial|Nepal|1841|Computer vended|0.1|AFN|54|98|Common|67|Self-adhesive|
+682|Numeric|Nepal|1840|Variable value|0.1|NZD|49|78|Common|49|Acacia gum|
+369|Portrait|Netherlands|1991|Personalised|0.1|AUD|46|29|Uncommon|20|Acacia gum|
+278|Portrait|Netherlands|1983|Variable value|0.1|CAD|27|88|Uncommon|2|Glue|
+412|Numeric|Netherlands|1931|War tax|0.1|KRW|52|22|Uncommon|11|Polyvinyl alcohol|
+868|Numeric|Netherlands|1930|Commemorative|0.1|GBP|34|94|Common|39|Other|
+680|Emblem|Netherlands|1928|Local post|0.1|AED|21|69|Common|89|Other|
+775|Numeric|Netherlands|1906|Newspaper|0.1|EUR|23|11|Rare|31|Acacia gum|
+720|Emblem|Netherlands|1905|Carrier's|0.1||50|82|Common|54|Dextrin|
+789|Pictorial|Netherlands|1883|Make up|0.1|JPY|37|59|Rare|17|Dextrin|
+182|Emblem|Netherlands|1858|Newspaper|0.1|AED|33|70|Very Rare|85|Glue|
+86|Emblem|New Zealand|2003|Coil|0.1|AFN|31|109|Rare|43|Self-adhesive|
+860|Emblem|New Zealand|1957|Variable value|0.1|INR|54|103|Common|78|Other|
+386|Portrait|New Zealand|1934|Variable value|0.1|USD|37|109|Rare|77|Other|
+804|Emblem|New Zealand|1888|Commemorative|0.1|BRL|12|93|Common|15|Polyvinyl alcohol|
+909|Pictorial|New Zealand|1845|Coil|0.1|CNH|58|13|Common|57|Glue|
+875|Pictorial|Nicaragua|2010|Military|0.1||39|17|Common|90|Dextrin|
+709|Numeric|Nicaragua|2008|Booklet|0.1|AED|46|56|Common|43|Glue|
+929|Emblem|Nicaragua|2002|War tax|0.1|BHD|29|52|Very Rare|42|Dextrin|
+911|Portrait|Nicaragua|1970|Pneumatic post|0.1|SEK|51|17|Rare|63|Polyvinyl alcohol|
+127|Emblem|Nicaragua|1901|Variable value|0.1|BRL|56|23|Common|72|Acacia gum|
+543|Portrait|Nicaragua|1888|Personalised|0.1|ARS|11|80|Rare|11|Self-adhesive|
+87|Pictorial|Nicaragua|1857|Variable value|0.1|GBP|36|85|Rare|81|Polyvinyl alcohol|
+487|Portrait|Nigeria|2003|Certified mail|0.1|NZD|48|33|Rare|15|Polyvinyl alcohol|
+320|Pictorial|Nigeria|1910|Military|0.1|INR|56|32|Rare|72|Dextrin|
+359|Emblem|Nigeria|1894|Coil|0.1|ARS|41|19|Common|89|Glue|
+111|Numeric|Nigeria|1893|Souvenir sheet|0.1|AED|58|85|Uncommon|72|Polyvinyl alcohol|
+582|Emblem|Nigeria|1882|Express|0.1|INR|27|36|Very Rare|9|Dextrin|
+892|Emblem|Nigeria|1875|Overprint|0.1|INR|21|79|Very Rare|56|Self-adhesive|
+329|Portrait|Nigeria|1867|Make up|0.1|ARS|55|61|Rare|8|Polyvinyl alcohol|
+685|Numeric|Nigeria|1855|Personalised|0.1|SEK|21|103|Uncommon|83|Other|
+114|Pictorial|Norway|2006|Variable value|0.1|JPY|44|89|Common|68|Dextrin|
+490|Portrait|Norway|1988|Airmail|0.1|RUB|22|17|Very Rare|43|Acacia gum|
+193|Numeric|Norway|1976|Charity|0.1|EUR|38|23|Very Rare|72|Self-adhesive|
+100|Portrait|Norway|1955|Booklet|0.1||13|26|Uncommon|4|Dextrin|
+207|Emblem|Norway|1947|Certified mail|0.1|JPY|32|16|Common|52|Other|
+117|Emblem|Norway|1947|Official mail|0.1|USD|11|104|Very Rare|47|Glue|
+938|Pictorial|Norway|1941|Coil|0.1|AFN|32|80|Very Rare|29|Acacia gum|
+287|Pictorial|Norway|1918|Personalised|0.1|BSD|58|61|Common|79|Glue|
+659|Emblem|Norway|1916|Newspaper|0.1|USD|33|40|Uncommon|60|Acacia gum|
+80|Portrait|Norway|1906|Variable value|0.1|BRL|13|73|Rare|51|Other|
+358|Numeric|Norway|1892|Pneumatic post|0.1|AUD|19|93|Very Rare|82|Other|
+354|Emblem|Norway|1892|Pneumatic post|0.1|JPY|41|32|Common|70|Dextrin|
+864|Portrait|Norway|1878|Personalised|0.1|EUR|36|89|Uncommon|64|Glue|
+945|Numeric|Norway|1863|Military|0.1|BHD|44|81|Very Rare|17|Self-adhesive|
+506|Numeric|Norway|1859|Souvenir sheet|0.1|GBP|27|71|Rare|12|Polyvinyl alcohol|
+20|Emblem|Norway|1851|Certified mail|0.1|BHD|58|58|Rare|65|Dextrin|
+46|Numeric|Pakistan|2010|Postage currency|0.1|SEK|58|56|Very Rare|28|Glue|
+15|Pictorial|Pakistan|2008|Postage currency|0.1|BRL|54|20|Uncommon|20|Dextrin|
+681|Pictorial|Pakistan|1976|Souvenir sheet|0.1|JPY|17|107|Uncommon|46|Polyvinyl alcohol|
+812|Pictorial|Pakistan|1975|Charity|0.1|AUD|20|12|Rare|26|Other|
+244|Numeric|Pakistan|1948|Postage currency|0.1|INR|13|58|Rare|81|Glue|
+822|Numeric|Pakistan|1930|Definitive|0.1|BSD|35|62|Rare|71|Other|
+130|Emblem|Pakistan|1924|Perforated|0.1|CAD|17|90|Very Rare|35|Polyvinyl alcohol|
+572|Numeric|Pakistan|1917|Charity|0.1|AFN|37|48|Very Rare|68|Self-adhesive|
+533|Pictorial|Pakistan|1911|Test stamp|0.1|KRW|36|56|Common|11|Other|
+761|Numeric|Pakistan|1901|Souvenir sheet|0.1|BRL|36|104|Common|88|Other|
+96|Portrait|Pakistan|1880|Make up|0.1|CNH|21|107|Very Rare|30|Glue|
+550|Emblem|Pakistan|1879|Postage due|0.1|ARS|33|54|Very Rare|86|Glue|
+266|Numeric|Pakistan|1853|Personalised|0.1|RUB|39|43|Very Rare|20|Polyvinyl alcohol|
+409|Pictorial|Palestine|1986|Newspaper|0.1|KRW|15|58|Uncommon|72|Polyvinyl alcohol|
+170|Portrait|Palestine|1980|Definitive|0.1|USD|34|83|Very Rare|38|Self-adhesive|
+902|Pictorial|Palestine|1958|Booklet|0.1|BRL|37|32|Very Rare|63|Self-adhesive|
+75|Pictorial|Palestine|1939|Make up|0.1||34|49|Very Rare|23|Self-adhesive|
+508|Portrait|Palestine|1860|Postage currency|0.1|JPY|27|16|Very Rare|20|Other|
+163|Pictorial|Panama|2008|Airmail|0.1|BSD|15|100|Very Rare|73|Acacia gum|
+19|Emblem|Panama|2005|Charity|0.1|GBP|10|71|Rare|18|Polyvinyl alcohol|
+613|Portrait|Panama|1974|Perforated|0.1|BSD|54|17|Common|67|Other|
+697|Pictorial|Panama|1921|Non-denominated|0.1|USD|27|103|Common|35|Acacia gum|
+404|Portrait|Panama|1918|Specimen|0.1|USD|25|69|Very Rare|31|Self-adhesive|
+162|Numeric|Panama|1876|Souvenir sheet|0.1|USD|14|99|Rare|53|Other|
+349|Emblem|Panama|1858|Charity|0.1|BHD|43|81|Common|90|Acacia gum|
+794|Portrait|Panama|1855|Perforated|0.1|KRW|29|13|Rare|80|Acacia gum|
+796|Numeric|Paraguay|1978|War tax|0.1|BRL|25|12|Rare|66|Self-adhesive|
+998|Numeric|Paraguay|1976|Charity|0.1|NZD|33|60|Uncommon|67|Polyvinyl alcohol|
+924|Emblem|Paraguay|1972|Variable value|0.1|AED|39|40|Uncommon|87|Self-adhesive|
+867|Emblem|Paraguay|1935|Official mail|0.1|USD|34|54|Common|66|Self-adhesive|
+492|Pictorial|Paraguay|1934|Computer vended|0.1|BHD|35|101|Very Rare|60|Polyvinyl alcohol|
+629|Numeric|Paraguay|1922|Pneumatic post|0.1|INR|19|31|Rare|18|Acacia gum|
+247|Emblem|Paraguay|1910|Local post|0.1||33|70|Common|67|Self-adhesive|
+134|Numeric|Paraguay|1865|Definitive|0.1|BSD|20|28|Rare|54|Glue|
+779|Emblem|Paraguay|1850|Commemorative|0.1|BHD|45|52|Common|7|Acacia gum|
+992|Emblem|Peru|2011|Personalised|0.1|KRW|46|15|Rare|17|Polyvinyl alcohol|
+258|Numeric|Peru|2010|Commemorative|0.1|USD|59|97|Very Rare|2|Dextrin|
+237|Numeric|Peru|2002|Computer vended|0.1|USD|49|78|Common|39|Self-adhesive|
+827|Numeric|Peru|1989|Local post|0.1|EUR|17|38|Very Rare|42|Other|
+226|Emblem|Peru|1988|Charity|0.1|AFN|36|93|Common|56|Dextrin|
+661|Pictorial|Peru|1961|Overprint|0.1|CAD|41|42|Uncommon|82|Glue|
+898|Emblem|Peru|1910|Specimen|0.1|GBP|26|24|Common|51|Other|
+683|Pictorial|Peru|1892|Certified mail|0.1|BRL|35|29|Very Rare|96|Dextrin|
+962|Pictorial|Peru|1878|Computer vended|0.1|ARS|25|109|Common|26|Acacia gum|
+462|Portrait|Peru|1863|Perforated|0.1|GBP|28|91|Rare|79|Acacia gum|
+604|Portrait|Peru|1858|Certified mail|0.1|BRL|33|75|Rare|60|Other|
+542|Pictorial|Peru|1853|Charity|0.1|ARS|58|54|Common|20|Dextrin|
+68|Portrait|Peru|1842|Personalised|0.1|AUD|43|22|Common|24|Self-adhesive|
+367|Pictorial|Philippines|2007|Newspaper|0.1||56|13|Very Rare|97|Self-adhesive|
+136|Pictorial|Philippines|1997|Specimen|0.1|ARS|19|62|Uncommon|100|Self-adhesive|
+755|Numeric|Philippines|1992|Definitive|0.1|ARS|59|100|Rare|41|Other|
+39|Numeric|Philippines|1982|Test stamp|0.1|BHD|17|108|Uncommon|74|Other|
+906|Numeric|Philippines|1979|Specimen|0.1|EUR|42|73|Rare|91|Acacia gum|
+567|Numeric|Philippines|1966|Official mail|0.1||52|45|Common|60|Polyvinyl alcohol|
+225|Numeric|Philippines|1957|Official mail|0.1|BHD|52|78|Uncommon|90|Dextrin|
+186|Emblem|Philippines|1945|Coil|0.1|NZD|11|37|Uncommon|37|Other|
+967|Emblem|Philippines|1933|Coil|0.1|BSD|23|18|Rare|26|Polyvinyl alcohol|
+564|Emblem|Philippines|1918|Official mail|0.1|ARS|15|83|Common|96|Acacia gum|
+811|Pictorial|Philippines|1892|Specimen|0.1|CNH|20|27|Common|50|Polyvinyl alcohol|
+766|Emblem|Philippines|1879|Booklet|0.1|INR|27|72|Common|83|Dextrin|
+559|Numeric|Poland|2001|Definitive|0.1|SEK|40|101|Common|41|Self-adhesive|
+476|Pictorial|Poland|1984|Express|0.1|BRL|50|104|Uncommon|97|Self-adhesive|
+640|Portrait|Poland|1981|Certified mail|0.1|SEK|53|105|Common|48|Other|
+757|Emblem|Poland|1972|Variable value|0.1|NZD|39|47|Common|16|Self-adhesive|
+61|Numeric|Poland|1959|Pneumatic post|0.1||43|24|Rare|86|Polyvinyl alcohol|
+442|Pictorial|Poland|1956|Local post|0.1|RUB|11|20|Rare|54|Self-adhesive|
+722|Emblem|Poland|1951|Overprint|0.1|NZD|39|100|Very Rare|43|Dextrin|
+673|Numeric|Poland|1951|Postage currency|0.1|KRW|38|12|Very Rare|93|Self-adhesive|
+678|Emblem|Poland|1926|Computer vended|0.1|EUR|49|20|Very Rare|78|Dextrin|
+212|Numeric|Poland|1922|Make up|0.1|BRL|22|77|Uncommon|80|Other|
+807|Numeric|Poland|1919|Airmail|0.1|ARS|21|74|Rare|13|Acacia gum|
+575|Emblem|Poland|1913|Postage due|0.1||31|41|Common|29|Polyvinyl alcohol|
+28|Pictorial|Poland|1891|Charity|0.1||56|29|Common|24|Self-adhesive|
+63|Portrait|Poland|1885|Postage due|0.1|SEK|15|23|Very Rare|81|Acacia gum|
+808|Portrait|Poland|1859|Computer vended|0.1|EUR|19|83|Uncommon|85|Acacia gum|
+940|Pictorial|Portugal|1996|Newspaper|0.1|KRW|22|61|Very Rare|39|Glue|
+702|Emblem|Portugal|1967|Computer vended|0.1|RUB|10|19|Very Rare|87|Glue|
+637|Numeric|Portugal|1949|Postage currency|0.1|JPY|54|14|Very Rare|33|Polyvinyl alcohol|
+949|Emblem|Portugal|1944|Souvenir sheet|0.1|AFN|56|34|Common|80|Dextrin|
+999|Numeric|Portugal|1921|Personalised|0.1|NZD|29|75|Very Rare|29|Dextrin|
+662|Pictorial|Portugal|1917|Definitive|0.1|USD|48|100|Common|40|Other|
+913|Emblem|Portugal|1906|Computer vended|0.1||49|34|Uncommon|49|Polyvinyl alcohol|
+919|Portrait|Portugal|1904|Souvenir sheet|0.1||20|85|Very Rare|25|Glue|
+641|Pictorial|Portugal|1897|Airmail|0.1|CAD|45|17|Very Rare|36|Dextrin|
+234|Numeric|Portugal|1852|War tax|0.1|BSD|41|11|Common|35|Dextrin|
+853|Pictorial|Portugal|1849|Commemorative|0.1|AUD|22|72|Very Rare|98|Other|
+260|Pictorial|Qatar|2008|War tax|0.1|BRL|20|77|Common|49|Self-adhesive|
+85|Numeric|Qatar|1997|Commemorative|0.1|ARS|15|90|Uncommon|49|Other|
+738|Numeric|Qatar|1986|Definitive|0.1|KRW|43|108|Rare|14|Other|
+632|Portrait|Qatar|1979|Certified mail|0.1||13|54|Common|83|Dextrin|
+518|Portrait|Qatar|1923|Specimen|0.1|KRW|38|54|Uncommon|31|Other|
+11|Emblem|Qatar|1923|Make up|0.1|SEK|33|51|Very Rare|88|Polyvinyl alcohol|
+514|Emblem|Qatar|1877|War tax|0.1|AED|31|89|Rare|91|Dextrin|
+859|Portrait|Qatar|1867|War tax|0.1|KRW|43|49|Rare|6|Glue|
+333|Pictorial|Qatar|1867|Commemorative|0.1|KRW|57|105|Common|98|Dextrin|
+6|Numeric|Romania|2000|Certified mail|0.1|AED|11|31|Uncommon|24|Other|
+366|Emblem|Romania|1996|Overprint|0.1|RUB|47|22|Common|81|Other|
+246|Emblem|Romania|1966|Specimen|0.1|SEK|36|53|Common|71|Glue|
+298|Numeric|Romania|1959|War tax|0.1||40|45|Common|49|Glue|
+413|Portrait|Romania|1930|Local post|0.1|AUD|47|52|Uncommon|41|Glue|
+56|Pictorial|Romania|1922|Certified mail|0.1|NZD|11|98|Common|65|Acacia gum|
+64|Pictorial|Romania|1908|Carrier's|0.1|SEK|17|67|Very Rare|52|Acacia gum|
+33|Emblem|Romania|1866|Test stamp|0.1||41|74|Rare|20|Dextrin|
+983|Emblem|Romania|1857|Specimen|0.1|NZD|37|62|Very Rare|83|Glue|
+607|Emblem|Romania|1841|Carrier's|0.1|SEK|19|63|Very Rare|86|Other|
+464|Emblem|Russia|2014|Express|0.1|GBP|52|88|Rare|52|Polyvinyl alcohol|
+438|Pictorial|Russia|2013|Computer vended|0.1||59|59|Rare|30|Other|
+944|Portrait|Russia|2001|Overprint|0.1|GBP|43|22|Rare|26|Self-adhesive|
+548|Pictorial|Russia|1980|Non-denominated|0.1||15|64|Uncommon|13|Dextrin|
+452|Portrait|Russia|1975|Commemorative|0.1|AFN|13|77|Rare|19|Dextrin|
+449|Pictorial|Russia|1960|Personalised|0.1|RUB|11|21|Rare|71|Dextrin|
+968|Pictorial|Russia|1939|Variable value|0.1|CNH|43|89|Uncommon|43|Other|
+340|Numeric|Russia|1915|Official mail|0.1|USD|14|101|Very Rare|74|Other|
+424|Pictorial|Russia|1888|Official mail|0.1|INR|37|45|Uncommon|79|Polyvinyl alcohol|
+135|Portrait|Russia|1874|Express|0.1|USD|30|97|Common|30|Dextrin|
+353|Pictorial|Russia|1867|Certified mail|0.1|AUD|29|18|Very Rare|36|Glue|
+727|Emblem|Russia|1866|Overprint|0.1|USD|15|107|Rare|19|Other|
+291|Emblem|Samoa|2007|Military|0.1|BSD|31|57|Very Rare|40|Other|
+179|Pictorial|Samoa|1963|Booklet|0.1|INR|21|88|Very Rare|92|Self-adhesive|
+284|Portrait|Samoa|1921|Overprint|0.1|CAD|13|38|Rare|10|Acacia gum|
+964|Pictorial|Samoa|1914|Carrier's|0.1||27|20|Uncommon|79|Dextrin|
+471|Emblem|Samoa|1869|Personalised|0.1|CAD|36|105|Common|91|Other|
+713|Portrait|Samoa|1848|Charity|0.1|CNH|27|11|Rare|34|Self-adhesive|
+380|Numeric|Samoa|1842|Postage due|0.1|SEK|17|13|Very Rare|13|Polyvinyl alcohol|
+269|Numeric|Saudi Arabia|2009|Non-denominated|0.1|BRL|59|98|Very Rare|50|Glue|
+8|Emblem|Saudi Arabia|2008|Commemorative|0.1||42|93|Very Rare|26|Glue|
+973|Numeric|Saudi Arabia|2000|Personalised|0.1|ARS|42|25|Very Rare|19|Dextrin|
+421|Numeric|Saudi Arabia|1994|Booklet|0.1|JPY|47|18|Very Rare|85|Acacia gum|
+423|Portrait|Saudi Arabia|1962|Variable value|0.1|KRW|45|23|Rare|64|Polyvinyl alcohol|
+395|Emblem|Saudi Arabia|1949|Booklet|0.1|USD|48|10|Common|25|Acacia gum|
+599|Pictorial|Saudi Arabia|1939|Carrier's|0.1|CAD|15|10|Uncommon|57|Self-adhesive|
+520|Emblem|Saudi Arabia|1932|Non-denominated|0.1|BSD|10|28|Very Rare|15|Acacia gum|
+157|Portrait|Saudi Arabia|1926|Military|0.1||58|56|Uncommon|91|Self-adhesive|
+855|Pictorial|Saudi Arabia|1897|Pneumatic post|0.1|ARS|53|93|Rare|41|Acacia gum|
+183|Pictorial|Saudi Arabia|1897|Commemorative|0.1||30|40|Very Rare|65|Dextrin|
+74|Pictorial|Saudi Arabia|1890|Express|0.1|RUB|31|94|Common|85|Other|
+956|Emblem|Saudi Arabia|1889|Computer vended|0.1|KRW|29|16|Uncommon|30|Self-adhesive|
+658|Pictorial|Saudi Arabia|1847|Personalised|0.1|USD|26|76|Common|44|Glue|
+728|Emblem|Serbia|2006|Airmail|0.1||59|37|Very Rare|60|Acacia gum|
+488|Portrait|Serbia|1993|War tax|0.1|AUD|46|20|Rare|84|Other|
+905|Numeric|Serbia|1992|Test stamp|0.1||11|69|Common|71|Dextrin|
+882|Pictorial|Serbia|1974|Local post|0.1|BSD|23|12|Common|9|Other|
+820|Pictorial|Serbia|1956|Certified mail|0.1|AFN|59|69|Rare|35|Other|
+612|Portrait|Serbia|1943|War tax|0.1|RUB|35|40|Common|33|Self-adhesive|
+603|Emblem|Serbia|1936|Charity|0.1|AFN|49|43|Very Rare|12|Dextrin|
+169|Emblem|Serbia|1916|Computer vended|0.1|SEK|43|86|Uncommon|40|Self-adhesive|
+384|Portrait|Serbia|1909|Test stamp|0.1||32|72|Uncommon|100|Glue|
+149|Pictorial|Serbia|1896|Postage due|0.1|BHD|55|55|Uncommon|55|Acacia gum|
+595|Portrait|Serbia|1890|Newspaper|0.1||28|101|Common|100|Self-adhesive|
+737|Pictorial|Serbia|1883|Airmail|0.1|SEK|39|62|Uncommon|83|Other|
+958|Portrait|Serbia|1879|Perforated|0.1|AFN|21|52|Very Rare|20|Other|
+684|Portrait|Singapore|1976|Personalised|0.1||39|43|Rare|12|Polyvinyl alcohol|
+758|Emblem|Singapore|1948|Personalised|0.1|ARS|39|106|Rare|76|Self-adhesive|
+108|Portrait|Singapore|1945|Postage currency|0.1|EUR|48|44|Common|29|Polyvinyl alcohol|
+621|Portrait|Singapore|1944|Variable value|0.1|BRL|27|103|Very Rare|58|Self-adhesive|
+357|Pictorial|Singapore|1930|Local post|0.1||46|21|Very Rare|88|Acacia gum|
+276|Numeric|Singapore|1926|Local post|0.1|AUD|38|26|Rare|15|Dextrin|
+792|Pictorial|Singapore|1906|Personalised|0.1|GBP|41|38|Uncommon|70|Self-adhesive|
+736|Portrait|Singapore|1898|Pneumatic post|0.1|AED|19|47|Uncommon|39|Glue|
+38|Pictorial|Singapore|1867|Souvenir sheet|0.1|AFN|50|51|Very Rare|31|Polyvinyl alcohol|
+328|Pictorial|Singapore|1848|Charity|0.1|BSD|52|98|Common|57|Other|
+773|Numeric|Slovakia|1956|Carrier's|0.1|AED|33|63|Uncommon|80|Polyvinyl alcohol|
+444|Pictorial|Slovenia|2006|Personalised|0.1|CNH|16|82|Uncommon|14|Other|
+774|Pictorial|Slovenia|1932|Booklet|0.1|BHD|49|12|Rare|60|Other|
+468|Pictorial|Slovenia|1918|Specimen|0.1||10|29|Uncommon|89|Polyvinyl alcohol|
+204|Portrait|Slovenia|1909|Specimen|0.1|AED|42|18|Common|36|Acacia gum|
+901|Numeric|Slovenia|1895|Carrier's|0.1|ARS|58|100|Common|71|Glue|
+802|Emblem|Slovenia|1879|Specimen|0.1|CAD|14|42|Rare|39|Acacia gum|
+982|Pictorial|Slovenia|1873|Perforated|0.1|INR|15|60|Uncommon|8|Polyvinyl alcohol|
+817|Numeric|Slovenia|1840|Carrier's|0.1|CNH|33|54|Rare|89|Self-adhesive|
+352|Emblem|South Africa|2009|Carrier's|0.1|SEK|32|67|Common|48|Polyvinyl alcohol|
+2|Portrait|South Africa|2006|Test stamp|0.1|CAD|31|58|Very Rare|81|Self-adhesive|
+285|Numeric|South Africa|2005|Newspaper|0.1|INR|11|26|Very Rare|36|Acacia gum|
+175|Numeric|South Africa|1968|Perforated|0.1|EUR|54|74|Uncommon|33|Self-adhesive|
+814|Numeric|South Africa|1967|Definitive|0.1|ARS|18|16|Very Rare|68|Self-adhesive|
+593|Numeric|South Africa|1915|Test stamp|0.1|RUB|20|98|Uncommon|47|Polyvinyl alcohol|
+405|Pictorial|South Africa|1908|Official mail|0.1|BHD|22|70|Very Rare|9|Glue|
+577|Pictorial|South Africa|1887|Airmail|0.1|RUB|25|56|Uncommon|64|Acacia gum|
+927|Pictorial|South Africa|1866|Newspaper|0.1|BHD|59|38|Uncommon|45|Other|
+218|Emblem|South Africa|1860|Definitive|0.1|CAD|42|88|Uncommon|32|Other|
+862|Emblem|South Africa|1840|Perforated|0.1|NZD|37|80|Very Rare|80|Self-adhesive|
+160|Numeric|Spain|1996|Express|0.1|INR|51|28|Common|10|Polyvinyl alcohol|
+403|Portrait|Spain|1992|Test stamp|0.1|INR|41|58|Uncommon|34|Glue|
+47|Pictorial|Spain|1970|Souvenir sheet|0.1|SEK|42|34|Common|43|Self-adhesive|
+209|Pictorial|Spain|1955|Coil|0.1|AED|44|95|Very Rare|86|Dextrin|
+494|Portrait|Spain|1926|Souvenir sheet|0.1|AFN|59|24|Uncommon|31|Acacia gum|
+745|Portrait|Spain|1924|Airmail|0.1|ARS|51|19|Common|33|Glue|
+752|Emblem|Spain|1912|War tax|0.1|GBP|25|33|Uncommon|76|Glue|
+49|Numeric|Spain|1877|Postage due|0.1|INR|32|87|Common|32|Other|
+767|Portrait|Spain|1872|Variable value|0.1|SEK|28|23|Rare|61|Acacia gum|
+943|Pictorial|Spain|1857|Commemorative|0.1|INR|22|17|Rare|17|Polyvinyl alcohol|
+410|Numeric|Spain|1845|Booklet|0.1|NZD|59|98|Rare|10|Glue|
+907|Portrait|Sri Lanka|2012|Military|0.1|EUR|16|105|Rare|75|Polyvinyl alcohol|
+350|Emblem|Sri Lanka|2007|Non-denominated|0.1|AUD|44|14|Rare|6|Glue|
+747|Emblem|Sri Lanka|1997|Carrier's|0.1|BHD|34|25|Rare|82|Glue|
+337|Portrait|Sri Lanka|1970|Local post|0.1||43|18|Common|31|Self-adhesive|
+986|Emblem|Sri Lanka|1942|Test stamp|0.1|EUR|55|42|Common|52|Other|
+245|Portrait|Sri Lanka|1931|Specimen|0.1||49|69|Uncommon|61|Glue|
+296|Portrait|Sri Lanka|1929|Coil|0.1|BRL|41|11|Common|40|Acacia gum|
+615|Numeric|Sri Lanka|1923|Military|0.1|AED|27|78|Common|50|Self-adhesive|
+557|Pictorial|Sri Lanka|1921|Specimen|0.1|BSD|24|48|Uncommon|74|Self-adhesive|
+316|Pictorial|Sri Lanka|1870|Carrier's|0.1|EUR|54|41|Very Rare|12|Acacia gum|
+195|Numeric|Sri Lanka|1851|Postage due|0.1||28|64|Uncommon|91|Polyvinyl alcohol|
+60|Portrait|Sweden|1981|Postage currency|0.1|AED|34|82|Very Rare|48|Other|
+769|Emblem|Sweden|1967|Airmail|0.1|INR|49|66|Common|31|Acacia gum|
+282|Portrait|Sweden|1954|Computer vended|0.1|SEK|37|40|Very Rare|54|Other|
+76|Portrait|Sweden|1950|Booklet|0.1|ARS|45|64|Common|69|Glue|
+978|Emblem|Sweden|1946|Booklet|0.1||12|68|Uncommon|29|Polyvinyl alcohol|
+850|Emblem|Sweden|1923|Test stamp|0.1|BSD|39|70|Rare|60|Dextrin|
+784|Emblem|Sweden|1911|Carrier's|0.1||25|102|Common|35|Acacia gum|
+994|Numeric|Sweden|1908|Test stamp|0.1|SEK|51|17|Very Rare|70|Other|
+82|Numeric|Sweden|1886|Souvenir sheet|0.1|NZD|42|69|Very Rare|49|Polyvinyl alcohol|
+147|Numeric|Sweden|1879|Coil|0.1|BHD|50|56|Common|37|Self-adhesive|
+791|Portrait|Sweden|1878|Postage currency|0.1|CAD|44|46|Common|85|Polyvinyl alcohol|
+1|Pictorial|Sweden|1877|Express|0.1||23|84|Uncommon|8|Acacia gum|
+297|Numeric|Sweden|1847|Personalised|0.1|BSD|49|32|Rare|67|Self-adhesive|
+677|Pictorial|Switzerland|1977|Specimen|0.1|AUD|13|71|Common|15|Dextrin|
+307|Emblem|Switzerland|1969|Airmail|0.1|JPY|36|30|Uncommon|40|Dextrin|
+837|Pictorial|Switzerland|1933|Perforated|0.1|SEK|53|107|Uncommon|95|Dextrin|
+961|Portrait|Switzerland|1859|Specimen|0.1|BSD|28|57|Rare|71|Dextrin|
+579|Numeric|Switzerland|1852|Charity|0.1|CNH|22|23|Uncommon|52|Glue|
+897|Portrait|Switzerland|1849|Military|0.1|RUB|30|67|Uncommon|54|Glue|
+611|Numeric|Switzerland|1849|Computer vended|0.1|RUB|18|23|Uncommon|16|Glue|
+310|Numeric|Switzerland|1847|Computer vended|0.1|AUD|54|101|Common|22|Other|
+503|Pictorial|Switzerland|1843|Official mail|0.1|INR|47|38|Very Rare|49|Acacia gum|
+526|Portrait|Taiwan|2013|Booklet|0.1|JPY|14|23|Rare|71|Polyvinyl alcohol|
+355|Pictorial|Taiwan|2002|Carrier's|0.1|USD|50|96|Uncommon|65|Acacia gum|
+519|Pictorial|Taiwan|1973|Non-denominated|0.1|BRL|19|106|Common|68|Glue|
+648|Pictorial|Taiwan|1924|Certified mail|0.1|RUB|41|101|Uncommon|49|Glue|
+233|Emblem|Taiwan|1901|Commemorative|0.1|INR|19|62|Common|99|Other|
+467|Numeric|Taiwan|1897|Postage currency|0.1|BHD|43|14|Common|79|Dextrin|
+609|Numeric|Taiwan|1893|Pneumatic post|0.1|AFN|36|14|Very Rare|21|Other|
+327|Emblem|Taiwan|1881|Military|0.1|AED|52|47|Rare|95|Dextrin|
+54|Portrait|Taiwan|1869|Computer vended|0.1||15|40|Rare|89|Dextrin|
+920|Emblem|Thailand|1994|Newspaper|0.1|AED|46|35|Common|77|Glue|
+871|Portrait|Thailand|1969|Personalised|0.1|JPY|12|54|Uncommon|94|Polyvinyl alcohol|
+759|Emblem|Thailand|1948|Non-denominated|0.1|AED|18|54|Very Rare|63|Polyvinyl alcohol|
+318|Numeric|Thailand|1946|Airmail|0.1|AUD|45|101|Very Rare|97|Acacia gum|
+433|Numeric|Thailand|1945|Charity|0.1|CNH|29|47|Uncommon|14|Dextrin|
+925|Numeric|Thailand|1919|Carrier's|0.1|CAD|30|52|Very Rare|69|Polyvinyl alcohol|
+259|Pictorial|Thailand|1890|Carrier's|0.1|NZD|42|37|Very Rare|27|Glue|
+236|Emblem|Thailand|1871|Military|0.1||29|23|Rare|93|Dextrin|
+388|Emblem|Thailand|1863|Computer vended|0.1|INR|14|99|Very Rare|25|Other|
+479|Portrait|Thailand|1854|Postage due|0.1||53|18|Uncommon|97|Glue|
+777|Emblem|Thailand|1850|Postage currency|0.1|ARS|32|96|Rare|70|Polyvinyl alcohol|
+301|Numeric|Turkey|1996|Commemorative|0.1|RUB|15|59|Very Rare|27|Other|
+894|Emblem|Turkey|1979|Carrier's|0.1|USD|59|99|Rare|53|Other|
+573|Pictorial|Turkey|1973|Computer vended|0.1|CAD|17|43|Uncommon|54|Self-adhesive|
+351|Portrait|Turkey|1950|Official mail|0.1|BHD|44|12|Common|89|Other|
+597|Numeric|Turkey|1943|War tax|0.1|BRL|31|80|Uncommon|96|Glue|
+694|Emblem|Turkey|1941|Specimen|0.1|BSD|38|44|Uncommon|42|Glue|
+168|Emblem|Turkey|1926|Definitive|0.1|KRW|11|13|Very Rare|48|Self-adhesive|
+602|Emblem|Turkey|1922|Official mail|0.1|JPY|51|25|Very Rare|72|Dextrin|
+668|Portrait|Turkey|1847|Newspaper|0.1|CNH|12|63|Very Rare|77|Other|
+459|Numeric|UAE|2011|Official mail|0.1|NZD|57|89|Uncommon|7|Dextrin|
+211|Portrait|UAE|1995|Pneumatic post|0.1|CNH|51|64|Common|6|Acacia gum|
+81|Numeric|UAE|1960|Personalised|0.1|BHD|33|51|Very Rare|20|Other|
+290|Portrait|UAE|1949|Personalised|0.1|BRL|51|68|Common|12|Other|
+574|Portrait|UAE|1940|Computer vended|0.1|RUB|58|70|Very Rare|98|Other|
+590|Emblem|UAE|1908|Local post|0.1|INR|45|80|Common|68|Glue|
+203|Portrait|UAE|1878|Certified mail|0.1||58|40|Rare|94|Self-adhesive|
+254|Emblem|UAE|1856|Postage due|0.1|JPY|47|54|Very Rare|29|Other|
+500|Portrait|UAE|1853|Non-denominated|0.1|ARS|47|29|Uncommon|36|Self-adhesive|
+788|Pictorial|Uganda|2015|Official mail|0.1|AFN|11|19|Very Rare|41|Dextrin|
+312|Numeric|Uganda|1995|Souvenir sheet|0.1|ARS|38|47|Uncommon|32|Acacia gum|
+843|Portrait|Uganda|1982|Airmail|0.1|EUR|50|78|Common|15|Glue|
+240|Portrait|Uganda|1967|Express|0.1||56|101|Uncommon|50|Polyvinyl alcohol|
+257|Portrait|Uganda|1955|Military|0.1||28|18|Very Rare|34|Other|
+491|Emblem|Uganda|1939|Definitive|0.1|AFN|39|94|Uncommon|79|Other|
+324|Portrait|Uganda|1935|Military|0.1|CAD|58|53|Rare|80|Polyvinyl alcohol|
+275|Pictorial|Uganda|1910|Test stamp|0.1||22|53|Rare|56|Glue|
+516|Pictorial|Uganda|1900|War tax|0.1||43|88|Uncommon|65|Polyvinyl alcohol|
+7|Emblem|Uganda|1888|Newspaper|0.1|CNH|50|51|Very Rare|63|Glue|
+335|Emblem|Uganda|1878|Carrier's|0.1||43|41|Common|75|Glue|
+288|Emblem|Uganda|1878|Variable value|0.1|CAD|59|75|Rare|65|Polyvinyl alcohol|
+70|Portrait|Uganda|1846|Test stamp|0.1|AED|28|105|Common|50|Self-adhesive|
+606|Emblem|Ukraine|2007|Charity|0.1|BRL|52|101|Uncommon|41|Dextrin|
+953|Pictorial|Ukraine|2001|Airmail|0.1|NZD|33|37|Uncommon|45|Glue|
+62|Pictorial|Ukraine|1961|Military|0.1|BRL|28|60|Rare|36|Dextrin|
+675|Emblem|Ukraine|1959|Test stamp|0.1|JPY|49|50|Rare|6|Other|
+995|Portrait|Ukraine|1943|Perforated|0.1|BSD|46|45|Rare|44|Dextrin|
+123|Numeric|Ukraine|1889|Commemorative|0.1|RUB|48|15|Uncommon|21|Glue|
+719|Portrait|Ukraine|1878|Overprint|0.1|EUR|54|40|Common|14|Other|
+103|Portrait|Ukraine|1860|Test stamp|0.1|USD|38|43|Common|44|Other|
+253|Numeric|United States|2012|Non-denominated|0.1|USD|51|12|Very Rare|84|Polyvinyl alcohol|
+842|Emblem|United States|2004|Carrier's|0.1|CNH|54|61|Rare|99|Glue|
+180|Pictorial|United States|1953|Variable value|0.1|JPY|54|97|Rare|63|Glue|
+347|Pictorial|United States|1929|Carrier's|0.1||52|32|Uncommon|2|Other|
+965|Emblem|United States|1925|Specimen|0.1||32|54|Very Rare|55|Self-adhesive|
+540|Emblem|United States|1906|Non-denominated|0.1|AFN|19|99|Common|24|Acacia gum|
+323|Emblem|United States|1905|Certified mail|0.1|BHD|52|38|Common|11|Glue|
+872|Pictorial|United States|1904|Perforated|0.1|SEK|56|27|Common|68|Polyvinyl alcohol|
+830|Numeric|United States|1872|Coil|0.1|BRL|17|35|Very Rare|39|Other|
+109|Emblem|United States|1858|Carrier's|0.1|AED|28|17|Very Rare|16|Glue|
+451|Pictorial|United States|1853|Official mail|0.1|BRL|35|49|Rare|100|Polyvinyl alcohol|
+780|Numeric|United States|1848|Make up|0.1|GBP|22|82|Rare|44|Acacia gum|
+67|Portrait|Uruguay|1997|Newspaper|0.1|AED|35|29|Rare|11|Glue|
+143|Emblem|Uruguay|1980|Local post|0.1|EUR|11|55|Very Rare|29|Dextrin|
+397|Portrait|Uruguay|1967|Variable value|0.1|INR|31|100|Very Rare|82|Self-adhesive|
+588|Emblem|Uruguay|1964|Non-denominated|0.1|CAD|58|20|Rare|67|Polyvinyl alcohol|
+73|Pictorial|Uruguay|1930|Pneumatic post|0.1||28|15|Very Rare|25|Glue|
+71|Numeric|Uruguay|1925|Booklet|0.1|RUB|51|74|Common|4|Polyvinyl alcohol|
+989|Numeric|Uruguay|1885|Make up|0.1|BSD|44|92|Very Rare|25|Polyvinyl alcohol|
+870|Pictorial|Uruguay|1862|Overprint|0.1|RUB|20|48|Very Rare|21|Polyvinyl alcohol|
+671|Numeric|Uruguay|1848|Make up|0.1|CAD|18|39|Rare|61|Other|
+889|Numeric|Venezuela|1998|Charity|0.1|BRL|37|25|Common|77|Dextrin|
+94|Portrait|Venezuela|1993|Official mail|0.1|ARS|11|51|Common|7|Acacia gum|
+631|Numeric|Venezuela|1975|Variable value|0.1|CNH|52|96|Very Rare|16|Other|
+18|Numeric|Venezuela|1960|Postage currency|0.1|KRW|41|43|Rare|100|Other|
+823|Portrait|Venezuela|1897|Booklet|0.1|AFN|35|101|Very Rare|34|Dextrin|
+483|Numeric|Venezuela|1897|Non-denominated|0.1|NZD|22|23|Very Rare|50|Acacia gum|
+79|Emblem|Venezuela|1868|Computer vended|0.1|GBP|27|35|Common|76|Other|
+856|Numeric|Venezuela|1859|Overprint|0.1|NZD|46|32|Uncommon|57|Dextrin|
+187|Emblem|Yugoslavia|1965|Make up|0.1|INR|21|63|Uncommon|36|Polyvinyl alcohol|
+946|Emblem|Yugoslavia|1928|Non-denominated|0.1|USD|10|43|Rare|72|Acacia gum|
+881|Pictorial|Yugoslavia|1917|Definitive|0.1|AED|15|27|Very Rare|90|Polyvinyl alcohol|
+931|Portrait|Yugoslavia|1915|Variable value|0.1||20|53|Rare|76|Acacia gum|
+510|Pictorial|Yugoslavia|1912|Newspaper|0.1|AUD|26|95|Very Rare|82|Self-adhesive|
+348|Pictorial|Yugoslavia|1897|Non-denominated|0.1|ARS|19|90|Common|94|Self-adhesive|
+955|Numeric|Yugoslavia|1870|Airmail|0.1|CAD|38|101|Uncommon|68|Dextrin|
+885|Portrait|Yugoslavia|1857|Perforated|0.1|JPY|25|68|Rare|42|Glue|
+525|Numeric|Yugoslavia|1843|War tax|0.1|INR|51|77|Very Rare|19|Polyvinyl alcohol|
+98|Portrait|Zululand|2011|Military|0.1|BRL|39|10|Very Rare|26|Dextrin|
+916|Numeric|Zululand|2002|Military|0.1|AED|29|41|Very Rare|38|Self-adhesive|
+122|Pictorial|Zululand|1985|Perforated|0.1|GBP|33|91|Common|45|Acacia gum|
+605|Emblem|Zululand|1978|Non-denominated|0.1|SEK|16|65|Common|8|Glue|
+707|Portrait|Zululand|1971|Newspaper|0.1|CNH|43|26|Common|96|Polyvinyl alcohol|
+813|Emblem|Zululand|1950|Personalised|0.1|BHD|26|81|Common|89|Dextrin|
+469|Portrait|Zululand|1935|Specimen|0.1||22|57|Rare|76|Other|
+243|Numeric|Zululand|1913|Pneumatic post|0.1|NZD|29|88|Uncommon|93|Dextrin|
+97|Portrait|Zululand|1875|Computer vended|0.1|RUB|30|82|Very Rare|56|Dextrin|
+915|Pictorial|Zululand|1853|Test stamp|0.1||42|38|Rare|45|Dextrin|
+553|Numeric|Zululand|1852|Make up|0.1|NZD|25|97|Common|24|Glue|
+580|Pictorial|Zululand|1844|Local post|0.1|JPY|29|33|Very Rare|1|Dextrin|
