@@ -44,15 +44,6 @@
     <ClCompile Include="StampCollection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="unitTestDriver1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="unitTestDriver2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="unitTestDriver3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="StampCollector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

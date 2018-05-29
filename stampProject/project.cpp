@@ -15,7 +15,7 @@
 #include "StampCollector.h"
 
 
-
+// This is the entry point for our very simple stample collection
 int main(void)
 {
 	// Seed random numbers
@@ -24,9 +24,6 @@ int main(void)
 	// stamp stuff
 	StampCollector collector;
 	collector.UseStampbook();
-
-	//collector.DummyStamps(10);
-	//collector.DisplayAllStamps();
 
 
 	return kSUCCESS;

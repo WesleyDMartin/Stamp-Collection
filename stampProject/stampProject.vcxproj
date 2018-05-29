@@ -155,9 +155,6 @@
     <ClCompile Include="StampCollection.cpp" />
     <ClCompile Include="StampCollector.cpp" />
     <ClCompile Include="project.cpp" />
-    <ClCompile Include="unitTestDriver1.cpp" />
-    <ClCompile Include="unitTestDriver2.cpp" />
-    <ClCompile Include="unitTestDriver3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
